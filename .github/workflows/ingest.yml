@@ -1,0 +1,37 @@
+name: Automated Tech Ingestion
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:       # Allows manual triggers from GitHub UI
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Required to commit changes back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          cd scraper
+          pip install -r requirements.txt
+
+      - name: Run Ingestion Script
+        run: |
+          python scraper/main.py
+
+      - name: Commit and Push Data Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update product data [skip ci]" && git push)
