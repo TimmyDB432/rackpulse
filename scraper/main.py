@@ -3,8 +3,13 @@ import json
 import feedparser
 from datetime import datetime
 
-# Expanded feed list including vendor releases and prosumer hardware sources
+# Combined feeds: Your original targeted HN filter plus official vendor/hardware sources
 FEEDS = [
+    {
+        "name": "Hacker News (Homelab / Hardware)",
+        "url": "https://hnrss.org/newest?q=homelab+OR+mini-pc+OR+proxmox+OR+switch+OR+firewall",
+        "category": "HN Community"
+    },
     {
         "name": "Ubiquiti Releases",
         "url": "https://community.ui.com/rss/releases/Releases/e6712595-81bb-4829-8e42-9e2630fabcfe",
@@ -19,11 +24,6 @@ FEEDS = [
         "name": "Jeff Geerling",
         "url": "https://www.jeffgeerling.com/blog.xml",
         "category": "Homelab & Pi"
-    },
-    {
-        "name": "Ars Technica Hardware",
-        "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-        "category": "Hardware"
     }
 ]
 
@@ -35,12 +35,10 @@ def scrape_feeds():
         parsed = feedparser.parse(feed_info['url'])
         
         for entry in parsed.entries:
-            # Extract basic fields safely
             title = entry.get('title', 'No Title')
             link = entry.get('link', '#')
             summary = entry.get('summary', entry.get('description', 'No summary available.'))
             
-            # Normalize published date
             published_parsed = entry.get('published_parsed', entry.get('updated_parsed'))
             if published_parsed:
                 pub_date = datetime(*published_parsed[:6]).isoformat()
@@ -55,10 +53,7 @@ def scrape_feeds():
                 "category": feed_info['category']
             })
 
-    # Sort items by publication date (newest first)
     all_items.sort(key=lambda x: x['published'], reverse=True)
-    
-    # Keep top 50 latest items to keep data.json lean
     return all_items[:50]
 
 def save_to_json(data):
