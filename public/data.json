@@ -1,5 +1,45 @@
 [
   {
+    "id": "1794495179-4",
+    "title": "Building a networking switch ASIC chip",
+    "link": "https://essenceia.github.io/projects/expresso/",
+    "published": "Wed, 11 Nov 2026 08:26:05 +0000",
+    "summary": "Article URL: https://essenceia.github.io/projects/expresso/\nComments URL: https://news.ycombinator.com/item?id=50450949\nPoints: 2\n# Comments: 0...",
+    "category": "Homelab / Hardware"
+  },
+  {
+    "id": "1794495179-3",
+    "title": "Our example of great FreeBSD firewall performance",
+    "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDFirewallGoodPerformance",
+    "published": "Wed, 11 Nov 2026 15:01:04 +0000",
+    "summary": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDFirewallGoodPerformance\nComments URL: https://news.ycombinator.com/item?id=50454278\nPoints: 4\n# Comments: 0...",
+    "category": "Homelab / Hardware"
+  },
+  {
+    "id": "1794495179-2",
+    "title": "Nintendo Targets Picofly Switch Modchip Firmware in GitHub DMCA Takedown",
+    "link": "https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/",
+    "published": "Thu, 12 Nov 2026 01:21:05 +0000",
+    "summary": "Article URL: https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/\nComments URL: https://news.ycombinator.com/item?id=50461733\nPoints: 2\n# Comments: 0...",
+    "category": "Homelab / Hardware"
+  },
+  {
+    "id": "1794495179-1",
+    "title": "I gave an AI a week to make something interesting or I switch it off",
+    "link": "https://lira-ia.github.io/",
+    "published": "Thu, 12 Nov 2026 09:42:55 +0000",
+    "summary": "Article URL: https://lira-ia.github.io/\nComments URL: https://news.ycombinator.com/item?id=50465058\nPoints: 2\n# Comments: 2...",
+    "category": "Homelab / Hardware"
+  },
+  {
+    "id": "1794495179-0",
+    "title": "Show HN: ThreeSweep – switch macOS windows with single trackpad swipe",
+    "link": "https://nonnontrivial.tech/three-sweep/",
+    "published": "Thu, 12 Nov 2026 13:47:08 +0000",
+    "summary": "Everyday I move between a Windows 11 laptop for work and a Mac laptop at home. What I kept missing on the Mac was the three-finger window switching from my work machine: window switching that is faster than alt+tab and single-hand, single-gesture.Thr...",
+    "category": "Homelab / Hardware"
+  },
+  {
     "id": "1794374797-0",
     "title": "Smart meters to cost UK billions: 2G switch-off means replacing 12-13M",
     "link": "https://www.theregister.com/networks/2026/11/10/smart-meters-to-cost-the-uk-billions-2g-switch-off-means-replacing-12-13-million/5308728",
