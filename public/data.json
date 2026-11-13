@@ -1,5 +1,19 @@
 [
   {
+    "title": "BEA \u2013 Slim down Switch games you've extracted, no keys needed",
+    "link": "https://github.com/matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything",
+    "summary": "<p>Article URL: <a href=\"https://github.com/matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything\">https://github.com/matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478830\">https://news.ycombinator.com/item?id=50478830</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-13T05:40:52",
+    "category": "HN Community"
+  },
+  {
+    "title": "Generating Mini-Crosswords",
+    "link": "https://possiblywrong.wordpress.com/2018/10/31/generating-mini-crosswords/",
+    "summary": "<p>Article URL: <a href=\"https://possiblywrong.wordpress.com/2018/10/31/generating-mini-crosswords/\">https://possiblywrong.wordpress.com/2018/10/31/generating-mini-crosswords/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50476051\">https://news.ycombinator.com/item?id=50476051</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-12T23:42:40",
+    "category": "HN Community"
+  },
+  {
     "title": "Show HN: Shimmer \u2013 Stream PC Games into macOS Picture in Picture",
     "link": "https://www.kevinbpatel.com/blog/shimmer",
     "summary": "<p>Article URL: <a href=\"https://www.kevinbpatel.com/blog/shimmer\">https://www.kevinbpatel.com/blog/shimmer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475493\">https://news.ycombinator.com/item?id=50475493</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
@@ -23,7 +37,7 @@
   {
     "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
     "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-    "summary": "<p>Article URL: <a href=\"https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/\">https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468720\">https://news.ycombinator.com/item?id=50468720</a></p>\n<p>Points: 76</p>\n<p># Comments: 24</p>",
+    "summary": "<p>Article URL: <a href=\"https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/\">https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468720\">https://news.ycombinator.com/item?id=50468720</a></p>\n<p>Points: 82</p>\n<p># Comments: 32</p>",
     "published": "2026-11-12T15:14:52",
     "category": "HN Community"
   },
@@ -128,7 +142,7 @@
   {
     "title": "Starlink Mini 2",
     "link": "https://starlink.com/mini-2",
-    "summary": "<p>Article URL: <a href=\"https://starlink.com/mini-2\">https://starlink.com/mini-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50444129\">https://news.ycombinator.com/item?id=50444129</a></p>\n<p>Points: 511</p>\n<p># Comments: 611</p>",
+    "summary": "<p>Article URL: <a href=\"https://starlink.com/mini-2\">https://starlink.com/mini-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50444129\">https://news.ycombinator.com/item?id=50444129</a></p>\n<p>Points: 511</p>\n<p># Comments: 614</p>",
     "published": "2026-11-10T18:22:32",
     "category": "HN Community"
   },
@@ -145,20 +159,6 @@
     "summary": "<p>The day is finally here for the launch of AMD's EPYC 9006 \"Venice\" platform and the Zen 6 CPU architecture. AMD has been hard at work over the past two years to build a better server CPU, and thanks to its performance, Venice is primed to deliver another knockout blow for AMD</p>\n<p>The post <a href=\"https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/\">AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
     "published": "2026-11-10T17:00:08",
     "category": "Servers & Storage"
-  },
-  {
-    "title": "Xanadu and HyperLight Breakthrough of Nearly 3x Reduction in Optical Switch Loss",
-    "link": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-and-hyperlight-achieve-breakthrough-nearly-3x-reduction",
-    "summary": "<p>Article URL: <a href=\"https://investors.xanadu.ai/news-releases/news-release-details/xanadu-and-hyperlight-achieve-breakthrough-nearly-3x-reduction\">https://investors.xanadu.ai/news-releases/news-release-details/xanadu-and-hyperlight-achieve-breakthrough-nearly-3x-reduction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50441593\">https://news.ycombinator.com/item?id=50441593</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-10T15:17:16",
-    "category": "HN Community"
-  },
-  {
-    "title": "Show HN: pvewarden \u2013 let an AI agent patch Proxmox VMs without giving it a shell",
-    "link": "https://github.com/matousfiser/pvewarden",
-    "summary": "<p>Article URL: <a href=\"https://github.com/matousfiser/pvewarden\">https://github.com/matousfiser/pvewarden</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50440083\">https://news.ycombinator.com/item?id=50440083</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-10T13:33:23",
-    "category": "HN Community"
   },
   {
     "title": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth",
