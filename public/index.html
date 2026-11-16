@@ -29,29 +29,44 @@
     </header>
 
     <!-- Main Container -->
+   <!-- Main Container -->
     <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         
-        <!-- Hero / Search Section -->
-        <div class="mb-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <!-- Hero / Controls Section -->
+        <div class="mb-8 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             <div>
-                <h1 class="text-3xl font-bold tracking-tight text-white">Homelab & Infrastructure Feed</h1>
-                <p class="text-slate-400 text-sm mt-1">Automated gear tracking, hardware releases, and prosumer tech intelligence.</p>
+                <h1 class="text-3xl font-bold tracking-tight text-white">Infrastructure & Security Feed</h1>
+                <p class="text-slate-400 text-sm mt-1">Automated hardware releases, homelab gear, and threat intelligence.</p>
             </div>
-            <div class="w-full md:w-80">
-                <input type="text" id="searchInput" placeholder="Search gear, specs, or keywords..." 
-                    class="w-full bg-slate-900 border border-slate-800 rounded-lg px-4 py-2 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-cyan-500 transition-colors">
+            
+            <div class="flex flex-col sm:flex-row gap-3">
+                <!-- Section Filter Buttons -->
+                <div class="inline-flex rounded-lg bg-slate-900 p-1 border border-slate-800" role="group">
+                    <button type="button" onclick="setSection('all')" id="btn-all"
+                        class="px-3 py-1.5 text-xs font-medium rounded-md bg-cyan-500/20 text-cyan-400 border border-cyan-500/30 transition-all">
+                        All
+                    </button>
+                    <button type="button" onclick="setSection('homelab')" id="btn-homelab"
+                        class="px-3 py-1.5 text-xs font-medium rounded-md text-slate-400 hover:text-white transition-all">
+                        Homelab & Infra
+                    </button>
+                    <button type="button" onclick="setSection('security')" id="btn-security"
+                        class="px-3 py-1.5 text-xs font-medium rounded-md text-slate-400 hover:text-white transition-all">
+                        Security Intel
+                    </button>
+                </div>
+
+                <!-- Search Box -->
+                <div class="w-full sm:w-72">
+                    <input type="text" id="searchInput" placeholder="Search gear, CVEs, keywords..." 
+                        class="w-full bg-slate-900 border border-slate-800 rounded-lg px-4 py-2 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-cyan-500 transition-colors">
+                </div>
             </div>
         </div>
 
         <!-- Grid Container for Items -->
         <div id="gearGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Loading Skeleton State -->
-            <div class="bg-slate-900/40 border border-slate-800/80 rounded-xl p-5 animate-pulse">
-                <div class="h-4 bg-slate-800 rounded w-1/4 mb-4"></div>
-                <div class="h-6 bg-slate-800 rounded w-3/4 mb-3"></div>
-                <div class="h-16 bg-slate-800/50 rounded mb-4"></div>
-                <div class="h-3 bg-slate-800 rounded w-1/2"></div>
-            </div>
+            <!-- Populated by JS -->
         </div>
 
     </main>
@@ -64,13 +79,14 @@
     <!-- Frontend Logic Script -->
     <script>
         let allGearData = [];
+        let currentSection = 'all';
 
         async function fetchGearData() {
             try {
                 const response = await fetch('./data.json?v=' + new Date().getTime());
                 if (!response.ok) throw new Error('Failed to load data matrix.');
                 allGearData = await response.json();
-                renderGrid(allGearData);
+                applyFilters();
             } catch (error) {
                 document.getElementById('gearGrid').innerHTML = `
                     <div class="col-span-full text-center py-12 text-rose-400 bg-rose-950/20 border border-rose-900/30 rounded-xl">
@@ -81,58 +97,89 @@
             }
         }
 
+        function setSection(section) {
+            currentSection = section;
+            
+            // Update button active states
+            ['all', 'homelab', 'security'].forEach(btn => {
+                const el = document.getElementById(`btn-${btn}`);
+                if (btn === section) {
+                    el.className = 'px-3 py-1.5 text-xs font-medium rounded-md bg-cyan-500/20 text-cyan-400 border border-cyan-500/30 transition-all';
+                } else {
+                    el.className = 'px-3 py-1.5 text-xs font-medium rounded-md text-slate-400 hover:text-white transition-all border border-transparent';
+                }
+            });
+
+            applyFilters();
+        }
+
+        function applyFilters() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            
+            const filtered = allGearData.filter(item => {
+                const itemSection = item.section || 'homelab';
+                const matchesSection = currentSection === 'all' || itemSection === currentSection;
+                const matchesQuery = item.title.toLowerCase().includes(query) || 
+                                     item.summary.toLowerCase().includes(query) ||
+                                     (item.category && item.category.toLowerCase().includes(query));
+                return matchesSection && matchesQuery;
+            });
+
+            renderGrid(filtered);
+        }
+
         function renderGrid(items) {
             const grid = document.getElementById('gearGrid');
             if (items.length === 0) {
                 grid.innerHTML = `
                     <div class="col-span-full text-center py-12 text-slate-500">
-                        <p>No gear records found matching your criteria.</p>
+                        <p>No records found matching your criteria.</p>
                     </div>
                 `;
                 return;
             }
 
-            grid.innerHTML = items.map(item => `
+            grid.innerHTML = items.map(item => {
+                const isSecurity = item.section === 'security';
+                const badgeStyle = isSecurity 
+                    ? 'bg-amber-950/60 text-amber-400 border-amber-800/50' 
+                    : 'bg-cyan-950/60 text-cyan-400 border-cyan-800/50';
+                const hoverText = isSecurity ? 'group-hover:text-amber-400' : 'group-hover:text-cyan-400';
+
+                // Strip raw HTML tags from RSS summaries so formatting stays clean
+                const cleanSummary = item.summary.replace(/<[^>]*>?/gm, '');
+
+                return `
                 <div class="bg-slate-900/70 border border-slate-800 hover:border-slate-700 rounded-xl p-5 flex flex-col justify-between transition-all duration-200 group">
                     <div>
-                        <div class="flex items-center justify-between mb-3">
-                            <span class="text-xs font-medium px-2.5 py-1 rounded-full bg-cyan-950/60 text-cyan-400 border border-cyan-800/50 mono">
+                        <div class="flex items-center justify-between mb-3 gap-2">
+                            <span class="text-xs font-medium px-2.5 py-1 rounded-full border mono truncate ${badgeStyle}">
                                 ${item.category || 'Hardware'}
                             </span>
-                            <span class="text-xs text-slate-500 mono">${new Date(item.published).toLocaleDateString()}</span>
+                            <span class="text-xs text-slate-500 mono shrink-0">${new Date(item.published).toLocaleDateString()}</span>
                         </div>
-                        <h2 class="text-lg font-semibold text-white group-hover:text-cyan-400 transition-colors mb-2 line-clamp-2">
+                        <h2 class="text-lg font-semibold text-white ${hoverText} transition-colors mb-2 line-clamp-2">
                             ${item.title}
                         </h2>
                         <p class="text-slate-400 text-sm leading-relaxed mb-6 line-clamp-3">
-                            ${item.summary}
+                            ${cleanSummary}
                         </p>
                     </div>
                     <div>
                         <a href="${item.link}" target="_blank" rel="noopener noreferrer" 
-                           class="inline-flex items-center text-xs font-medium text-cyan-400 hover:text-cyan-300 transition-colors">
-                            View Source / Specs 
+                           class="inline-flex items-center text-xs font-medium ${isSecurity ? 'text-amber-400 hover:text-amber-300' : 'text-cyan-400 hover:text-cyan-300'} transition-colors">
+                            Read Advisory / Details 
                             <svg class="w-3.5 h-3.5 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
                             </svg>
                         </a>
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
         }
 
-        // Live Search Filtering
-        document.getElementById('searchInput').addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase();
-            const filtered = allGearData.filter(item => 
-                item.title.toLowerCase().includes(query) || 
-                item.summary.toLowerCase().includes(query) ||
-                (item.category && item.category.toLowerCase().includes(query))
-            );
-            renderGrid(filtered);
-        });
+        document.getElementById('searchInput').addEventListener('input', applyFilters);
 
-        // Initialize on load
         fetchGearData();
     </script>
 </body>
