@@ -1,15 +1,36 @@
 [
   {
+    "title": "Show HN: Link firewall log entries to the AI agent step behind them",
+    "link": "https://mnestiq.com/",
+    "summary": "<p>Article URL: <a href=\"https://mnestiq.com/\">https://mnestiq.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50518426\">https://news.ycombinator.com/item?id=50518426</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-16T15:10:14",
+    "category": "HN Community"
+  },
+  {
+    "title": "Secure access homelab like Homeassistant, terminal, etc.",
+    "link": "https://github.com/Bajusz15/beacon",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Bajusz15/beacon\">https://github.com/Bajusz15/beacon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50516311\">https://news.ycombinator.com/item?id=50516311</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-16T11:15:32",
+    "category": "HN Community"
+  },
+  {
+    "title": "TE Connectivity at OCP Summit 2026 The Interview",
+    "link": "https://www.servethehome.com/te-connectivity-at-ocp-summit-2026-the-interview/",
+    "summary": "<p>Brian Payne joins us for an interview on 800V DC power, 488G SerDes, copper and optical connectivity and more from OCP Summit 2026</p>\n<p>The post <a href=\"https://www.servethehome.com/te-connectivity-at-ocp-summit-2026-the-interview/\">TE Connectivity at OCP Summit 2026 The Interview</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+    "published": "2026-11-16T07:00:21",
+    "category": "Servers & Storage"
+  },
+  {
     "title": "Mini.nvim Is Now on Tangled",
     "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-    "summary": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 50</p>\n<p># Comments: 14</p>",
+    "summary": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 81</p>\n<p># Comments: 29</p>",
     "published": "2026-11-15T23:55:41",
     "category": "HN Community"
   },
   {
     "title": "Show HN: Wipeout-style mini racer written in C++ compiled to WASM for browser",
     "link": "https://gamedevpl.github.io/silnik3d-od-zera/demko/",
-    "summary": "<p>I'm exploring this topic, because recently I started to wonder about portability of games/content I'm working on. \nThe tech stack is not new, and my other direction was to rely on Tauri Framework, and keep code in TS.\nIs WebAssembly an alternative to Tauri, or I should think of hybrid solution which would use both?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512078\">https://news.ycombinator.com/item?id=50512078</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "summary": "<p>I'm exploring this topic, because recently I started to wonder about portability of games/content I'm working on. \nThe tech stack is not new, and my other direction was to rely on Tauri Framework, and keep code in TS.\nIs WebAssembly an alternative to Tauri, or I should think of hybrid solution which would use both?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512078\">https://news.ycombinator.com/item?id=50512078</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
     "published": "2026-11-15T23:37:31",
     "category": "HN Community"
   },
@@ -161,20 +182,6 @@
     "category": "HN Community"
   },
   {
-    "title": "Lara Mini tops 36 models with up to 2B active params on 26 benchmarks",
-    "link": "https://huggingface.co/translated/Lara-4-Mini-Base",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/translated/Lara-4-Mini-Base\">https://huggingface.co/translated/Lara-4-Mini-Base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50471156\">https://news.ycombinator.com/item?id=50471156</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-12T17:43:33",
-    "category": "HN Community"
-  },
-  {
-    "title": "0.83.0 \u2013 Custom Firmware for the JetKVM Mini Is Ready \u2013 ESP-KVM",
-    "link": "https://espkvm.io/blog/0-83-0-custom-firmware-for-the-jetkvm-mini-is-ready/",
-    "summary": "<p>Article URL: <a href=\"https://espkvm.io/blog/0-83-0-custom-firmware-for-the-jetkvm-mini-is-ready/\">https://espkvm.io/blog/0-83-0-custom-firmware-for-the-jetkvm-mini-is-ready/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470758\">https://news.ycombinator.com/item?id=50470758</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-12T17:19:24",
-    "category": "HN Community"
-  },
-  {
     "title": "NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately",
     "link": "https://www.servethehome.com/nvidia-ceo-and-co-founder-jensen-huang-resigns-effective-immediately/",
     "summary": "<p>NVIDIA's CEO and Co-Founder Jensen Huang has resigned from the company, effective immediately, marking a pivotal moment for the company and the AI and graphics industries at large</p>\n<p>The post <a href=\"https://www.servethehome.com/nvidia-ceo-and-co-founder-jensen-huang-resigns-effective-immediately/\">NVIDIA CEO and Co-Founder Jensen Huang Resigns, Effective Immediately</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
@@ -193,13 +200,6 @@
     "link": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
     "summary": "<p>The day is finally here for the launch of AMD's EPYC 9006 \"Venice\" platform and the Zen 6 CPU architecture. AMD has been hard at work over the past two years to build a better server CPU, and thanks to its performance, Venice is primed to deliver another knockout blow for AMD</p>\n<p>The post <a href=\"https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/\">AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
     "published": "2026-11-10T17:00:08",
-    "category": "Servers & Storage"
-  },
-  {
-    "title": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth",
-    "link": "https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/",
-    "summary": "<p>The new Google TPU 8tx pairs AMD EPYC Turin hosts with confidential computing while TPU 8i Max doubles memory bandwidth for inference</p>\n<p>The post <a href=\"https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/\">Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
-    "published": "2026-11-09T21:37:58",
     "category": "Servers & Storage"
   },
   {
