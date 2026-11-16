@@ -1,5 +1,13 @@
 [
   {
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+    "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+    "published": "2026-11-16T22:54:00",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
     "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
     "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
     "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
@@ -262,14 +270,6 @@
     "published": "2026-11-14T19:00:44",
     "category": "Servers & Storage",
     "section": "homelab"
-  },
-  {
-    "title": "Cursor confirms security breach led to malicious Claude Code extension",
-    "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-    "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-    "published": "2026-11-14T17:27:25",
-    "category": "Security News",
-    "section": "security"
   },
   {
     "title": "Ops needs friction",
