@@ -1,0 +1,37 @@
+[
+  {
+    "slot": "Proxmox Host",
+    "name": "Minisforum MS-01 Workstation",
+    "specs": "Intel Core i9-13900H • Dual 10GbE SFP+ • 3x NVMe",
+    "why": "Unbeatable density for clustered virtualization and 10G lab routing.",
+    "link": "#"
+  },
+  {
+    "slot": "NAS / Storage",
+    "name": "UGREEN NASync DXP4800 Plus",
+    "specs": "4-Bay SATA • Intel Pentium Gold 8505 • 10GbE + 2.5GbE",
+    "why": "High-throughput flash/spinner hybrid storage with open OS support.",
+    "link": "#"
+  },
+  {
+    "slot": "Wi-Fi / Switching",
+    "name": "UniFi Cloud Gateway Max + U7 Pro",
+    "specs": "2.5GbE Full-Stack • Wi-Fi 7 (6GHz) • Multi-WAN",
+    "why": "Cleanest single-pane-of-glass management for prosumer VLANs.",
+    "link": "#"
+  },
+  {
+    "slot": "Firewall / Filtering",
+    "name": "Protectli Vault VP2420",
+    "specs": "4x 2.5GbE Intel I225-V • Fanless • Coreboot Ready",
+    "why": "Rock-solid silent appliance for OPNsense, pfSense, or Zenarmor.",
+    "link": "#"
+  },
+  {
+    "slot": "Network Rack",
+    "name": "StarTech 12U Open Frame Rack",
+    "specs": "19\" Adjustable Depth • Heavy-Duty Steel • Casters",
+    "why": "Easy rear-cable access and airflow for patch panels and switches.",
+    "link": "#"
+  }
+]
