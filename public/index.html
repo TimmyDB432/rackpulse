@@ -201,6 +201,42 @@
 
         document.getElementById('searchInput').addEventListener('input', applyFilters);
 
+        async function fetchFeaturedGear() {
+            try {
+                const response = await fetch('./featured.json?v=' + new Date().getTime());
+                if (!response.ok) return;
+                const featured = await response.json();
+                
+                document.getElementById('featuredGrid').innerHTML = featured.map(item => `
+                    <a href="${item.link}" target="_blank" rel="noopener noreferrer sponsored"
+                       class="bg-slate-900/50 border border-slate-800/90 hover:border-emerald-500/50 rounded-xl p-4 flex flex-col justify-between transition-all duration-200 group">
+                        <div>
+                            <span class="text-[11px] font-semibold uppercase tracking-wider text-emerald-400 mono block mb-1">
+                                ${item.slot}
+                            </span>
+                            <h3 class="text-sm font-bold text-white group-hover:text-emerald-300 transition-colors mb-1.5">
+                                ${item.name}
+                            </h3>
+                            <p class="text-[11px] text-slate-400 mono mb-2 leading-snug">
+                                ${item.specs}
+                            </p>
+                            <p class="text-xs text-slate-500 line-clamp-2 mb-3">
+                                ${item.why}
+                            </p>
+                        </div>
+                        <div class="text-xs font-medium text-emerald-400 group-hover:translate-x-0.5 transition-transform inline-flex items-center">
+                            Check Pricing &rarr;
+                        </div>
+                    </a>
+                `).join('');
+            } catch (e) {
+                console.error('Featured gear load skipped:', e);
+            }
+        }
+
+        // Call both on page load
+        fetchFeaturedGear();
+        fetchGearData();
         fetchGearData();
     </script>
 </body>
