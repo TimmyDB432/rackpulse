@@ -1,5 +1,37 @@
 [
   {
+    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+    "published": "2026-11-16T21:31:44",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster\u2026 It is FINALLY real",
+    "link": "https://www.servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real/",
+    "summary": "<p>Lambda is the first to disclose it has co-packaged optics deployed in a production cluster with over 10,000 GPUs</p>\n<p>The post <a href=\"https://www.servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real/\">NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster&#8230; It is FINALLY real</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+    "published": "2026-11-16T21:24:47",
+    "category": "Servers & Storage",
+    "section": "homelab"
+  },
+  {
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+    "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "published": "2026-11-16T20:59:44",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+    "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "published": "2026-11-16T19:57:13",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
     "title": "Show HN: View \u2013 Build native Mac Mini apps with your own coding agent",
     "link": "https://useview.app/",
     "summary": "<p>View runs small rust programs as native interfaces using Rust and GPUI. Coding agents write and edit the programs. Changes load without restarting the app.<p>Each view has its own state and permissions. Views access data through APIs, CLIs or MCP servers.<p>It supports Pi, Codex, Claude Code and OpenCode and more. Saved state is encrypted locally. Credentials are stored in macOS Keychain.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520917\">https://news.ycombinator.com/item?id=50520917</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
@@ -14,6 +46,14 @@
     "published": "2026-11-16T18:06:34",
     "category": "HN Community",
     "section": "homelab"
+  },
+  {
+    "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+    "link": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation",
+    "summary": "Huntress confirmed CVE-2026-84869 exploitation against MSP technicians via ScreenConnect. See the attack chain, IOCs, and how to protect your team.",
+    "published": "2026-11-16T18:00:00",
+    "category": "Threat Intel / Huntress",
+    "section": "security"
   },
   {
     "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
@@ -130,7 +170,7 @@
   {
     "title": "Mini.nvim Is Now on Tangled",
     "link": "https://tangled.org/nvim-mini.org/mini.nvim",
-    "summary": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 83</p>\n<p># Comments: 29</p>",
+    "summary": "<p>Article URL: <a href=\"https://tangled.org/nvim-mini.org/mini.nvim\">https://tangled.org/nvim-mini.org/mini.nvim</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512231\">https://news.ycombinator.com/item?id=50512231</a></p>\n<p>Points: 84</p>\n<p># Comments: 29</p>",
     "published": "2026-11-15T23:55:41",
     "category": "HN Community",
     "section": "homelab"
@@ -248,14 +288,6 @@
     "section": "homelab"
   },
   {
-    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-    "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-    "published": "2026-11-14T15:15:49",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
     "title": "1 Week with the iPad Mini OLED [video]",
     "link": "https://www.youtube.com/watch?v=5tqm_9eR02Y",
     "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5tqm_9eR02Y\">https://www.youtube.com/watch?v=5tqm_9eR02Y</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496132\">https://news.ycombinator.com/item?id=50496132</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
@@ -269,22 +301,6 @@
     "summary": "Fake crypto exchange sessions are showing up on ScreenConnect servers and could be bait for technicians. See what Huntress found and what to do.",
     "published": "2026-11-14T01:50:00",
     "category": "Threat Intel / Huntress",
-    "section": "security"
-  },
-  {
-    "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-    "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-    "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-    "published": "2026-11-13T19:38:36",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "German military drone operations disrupted by cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-    "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-    "published": "2026-11-13T17:31:56",
-    "category": "Security News",
     "section": "security"
   },
   {
@@ -414,14 +430,6 @@
     "published": "2026-11-10T21:55:03",
     "category": "Investigative / Krebs",
     "section": "security"
-  },
-  {
-    "title": "AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux",
-    "link": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
-    "summary": "<p>The day is finally here for the launch of AMD's EPYC 9006 \"Venice\" platform and the Zen 6 CPU architecture. AMD has been hard at work over the past two years to build a better server CPU, and thanks to its performance, Venice is primed to deliver another knockout blow for AMD</p>\n<p>The post <a href=\"https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/\">AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
-    "published": "2026-11-10T17:00:08",
-    "category": "Servers & Storage",
-    "section": "homelab"
   },
   {
     "title": "Beyond the clipboard: The evolving tradecraft of ClickFix",
@@ -557,14 +565,6 @@
     "summary": "<p><a href=\"https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-307-01.json\"><strong>View CSAF</strong></a></p>\n<h2>Summary</h2>\n<p><strong>Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources.</strong></p>\n<p>The following versions of Subnet Solutions PowerSYSTEM Center are affected:</p>\n<ul>\n<li>PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017)</li>\n<li>PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x (CVE-2026-63017, CVE-2026-63774)</li>\n<li>PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x (CVE-2026-63017, CVE-2026-63774)</li>\n</ul>\n<div class=\"csaf-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS</th>\n<th>Vendor</th>\n<th>Equipment</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>v3 9</td>\n<td>Subnet Solutions</td>\n<td>PowerSYSTEM Center</td>\n</tr>\n</tbody>\n</table>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>2 Vulnerabilities</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Incorrect Authorization, Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Background</h3>\n<ul>\n<li><strong>Critical Infrastructure Sectors: </strong>Critical Manufacturing, Energy</li>\n<li><strong>Countries/Areas Deployed: </strong>Worldwide</li>\n<li><strong>Company Headquarters Location: </strong>Canada</li>\n</ul>\n<hr />\n<h2>Vulnerabilities</h2>\n<div class=\"icsa-etb-toggle-wrapper\"><a class=\"icsa-etb-toggle-all\" href=\"https://www.cisa.gov/\">Expand All +</a></div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-63017</div>\n<div class=\"c-expandable-textbox__body\">Incorrect authorization in PowerSYSTEM Center allows a low-privileged, authenticated user to access resources normally limited to administrators.</div>\n<div class=\"c-expandable-textbox-morebutton-wrapper\"><a class=\"c-expandable-textbox-morebutton\" href=\"https://www.cisa.gov/\">Read More</a></div>\n<div class=\"c-expandable-textbox__body2\">\n<h4>3 Affected Products</h4>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />For users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools.</p>\n</div>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2020 &lt;=5.29.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Subnet Solutions recommends users update to PowerSYSTEM Center 2020 Update 30. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools.</p>\n</div>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Subnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users monitor user activity records to ensure users are following acceptable usage policies of the application. Subnet Solutions also recommends disabling PowerSYSTEM Center Client Access Server users' ability to access the browser's F12 Developer Tools.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/863.html\">CWE-863 Incorrect Authorization</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H\">CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>9.4</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H\">CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-63017\">View CVE Details</a></p>\n</div>\n</div>\n<div class=\"c-expandable-textbox icsa-etb\">\n<div class=\"c-expandable-textbox__title\">CVE-2026-63774</div>\n<div class=\"c-expandable-textbox__body\">Insufficient input validation in the PowerSYSTEM Center report designer allows an authenticated user to execute unauthorized SQL commands.</div>\n<h5><strong>Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />For users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h5><strong>Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x</strong></h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6><strong>Remediations</strong></h6>\n<div>\n<p><strong>Mitigation</strong><br />Subnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h6><strong>Additional Metrics</strong></h6>\n<p><strong>Relevant CWE:</strong> <a class=\"ext\" href=\"https://cwe.mitre.org/data/definitions/89.html\">CWE-89 Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<div class=\"tablesaw-bar tablesaw-mode-stack\">&nbsp;</div>\n<table class=\"tablesaw tablesaw-stack\" id=\"tablesaw-9492\">\n<thead>\n<tr>\n<th><strong>CVSS Version</strong></th>\n<th><strong>Base Score</strong></th>\n<th><strong>Base Severity</strong></th>\n<th><strong>Vector String</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9</td>\n<td><strong>CRITICAL</strong></td>\n<td><a class=\"ext\" href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H\">CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>9.4</td>\n<td><strong>CRITICAL</strong></td>\n<td><a class=\"ext\" href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H\">CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a class=\"ext\" href=\"https://www.cve.org/CVERecord?id=CVE-2026-63774\">View CVE Details</a></p>\n<div class=\"c-expandable-textbox__body2\">\n<h4>5 Affected Products</h4>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />For users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2020 &lt;=5.29.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Subnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />For users who are currently using PowerSYSTEM Center 2024, Subnet Solutions recommends users upgrade to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h5>Subnet Solutions PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x</h5>\n<div>\n<p>Product Status: known_affected</p>\n</div>\n<h6>Remediations</h6>\n<div>\n<p><strong>Mitigation</strong><br />Subnet Solutions recommends users update to PowerSYSTEM Center 2026 Update 1.1. For assistance in upgrading, users should contact the Subnet Solutions System Integration team or customer support team at (403) 270-8885 or by email at support@subnet.com. If unable to update to the latest version, Subnet Solutions recommends users disable user access to the report designer.</p>\n</div>\n<hr />\n<h6>Additional Metrics</h6>\n<p><strong>Relevant CWE:</strong> <a href=\"https://cwe.mitre.org/data/definitions/89.html\">CWE-89 Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')</a></p>\n<div class=\"csaf-table csaf-metrics-table\">\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>CVSS Version</th>\n<th>Base Score</th>\n<th>Base Severity</th>\n<th>Vector String</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.1</td>\n<td>9</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/3.1#CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H\">CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H</a></td>\n</tr>\n<tr>\n<td>4.0</td>\n<td>9.4</td>\n<td>CRITICAL</td>\n<td><a href=\"https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H\">CVSS:4.0/AV:A/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<hr />\n<p><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-63774\">View CVE Details</a></p>\n</div>\n</div>\n<hr />\n<h2>Acknowledgments</h2>\n<ul>\n<li>Chinmay Patel of Digital Boundary Group reported these vulnerabilities to CISA.</li>\n<li>Subnet Solutions reported these vulnerabilities to CISA.</li>\n</ul>\n<hr />\n<h2>Recommended Practices</h2>\n<p>CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities.</p>\n<ul type=\"disc\">\n<li>Minimize network exposure for all control system devices and/or systems, ensuring they are <a href=\"https://www.cisa.gov/uscert/ics/alerts/ICS-ALERT-10-301-01\">not accessible from the internet</a>.</li>\n<li>Locate control system networks and remote devices behind firewalls and isolating them from business networks.</li>\n<li>When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices.</li>\n</ul>\n<p>CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.</p>\n<p>CISA also provides a section for <a href=\"https://www.cisa.gov/resources-tools/resources/ics-recommended-practices\">control systems security recommended practices</a> on the ICS webpage on <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a>. Several CISA products detailing cyber defense best practices are available for reading and download, including <a href=\"https://www.cisa.gov/sites/default/files/recommended_practices/NCCIC_ICS-CERT_Defense_in_Depth_2016_S508C.pdf\">Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies</a>.</p>\n<p>CISA encourages organizations to implement recommended cybersecurity strategies for <a href=\"https://www.cisa.gov/sites/default/files/publications/Cybersecurity_Best_Practices_for_Industrial_Control_Systems.pdf\">proactive defense of ICS assets</a>.</p>\n<p>Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at <a href=\"https://www.cisa.gov/topics/industrial-control-systems\">cisa.gov/ics</a> in the technical information paper, <a href=\"https://www.cisa.gov/news-events/news/targeted-cyber-intrusion-detection-and-mitigation-strategies-update-b\">ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies</a>.</p>\n<p>Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents.</p>\n<p>CISA also recommends users take the following measures to protect themselves from social engineering attacks:</p>\n<ul type=\"disc\">\n<li>Do not click web links or open attachments in unsolicited email messages.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/secure-our-world/teach-employees-avoid-phishing\">Recognizing and Avoiding Email Scams</a> for more information on avoiding email scams.</li>\n<li>Refer to <a href=\"https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks\">Avoiding Social Engineering and Phishing Attacks</a> for more information on social engineering attacks.</li>\n</ul>\n<p>No known public exploitation specifically targeting these vulnerabilities has been reported to CISA at this time. These vulnerabilities are not exploitable remotely.</p>\n<hr />\n<h2>Revision History</h2>\n<ul>\n<li><strong>Initial Release Date: </strong>2026-11-03</li>\n</ul>\n<table class=\"tablesaw tablesaw-stack\">\n<thead>\n<tr>\n<th>Date</th>\n<th>Revision</th>\n<th>Summary</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2026-11-03</td>\n<td>1</td>\n<td>Initial Publication</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2>Legal Notice and Terms of Use</h2>",
     "published": "2026-11-03T12:00:00",
     "category": "Advisories / CISA",
-    "section": "security"
-  },
-  {
-    "title": "Gangsters, Money Trails, and Wuffy | Huntress",
-    "link": "https://www.huntress.com/blog/declassified-money-train-episode-four",
-    "summary": "A $30 AI toy dog led Mastercard to 250+ scam sites. See how small charges and ransomware payouts follow the same money trail, and how to cut it off.",
-    "published": "2026-11-03T08:00:00",
-    "category": "Threat Intel / Huntress",
     "section": "security"
   },
   {
