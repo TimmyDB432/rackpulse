@@ -1,9 +1,16 @@
 [
   {
-    "slot": "Proxmox Host",
-    "name": "Minisforum MS-01 Workstation",
+    "slot": "Proxmox Workstation",
+    "name": "Minisforum MS-01",
     "specs": "Intel Core i9-13900H • Dual 10GbE SFP+ • 3x NVMe",
     "why": "Unbeatable density for clustered virtualization and 10G lab routing.",
+    "link": "#"
+  },
+  {
+    "slot": "Budget Docker Node",
+    "name": "Beelink Mini S12 Pro",
+    "specs": "Intel N100 • 16GB DDR4 • 500GB NVMe • 6W Idle",
+    "why": "Whisper-quiet, low-power host for Pi-hole, Home Assistant, and containers.",
     "link": "#"
   },
   {
@@ -14,7 +21,14 @@
     "link": "#"
   },
   {
-    "slot": "Wi-Fi / Switching",
+    "slot": "10GbE Core Switch",
+    "name": "MikroTik CRS309-1G-8S+IN",
+    "specs": "8x 10G SFP+ Ports • Fanless • Dual-Boot RouterOS/SwOS",
+    "why": "The silent, affordable standard for linking NAS and virtualization nodes.",
+    "link": "#"
+  },
+  {
+    "slot": "Wi-Fi / Gateway",
     "name": "UniFi Cloud Gateway Max + U7 Pro",
     "specs": "2.5GbE Full-Stack • Wi-Fi 7 (6GHz) • Multi-WAN",
     "why": "Cleanest single-pane-of-glass management for prosumer VLANs.",
@@ -28,10 +42,31 @@
     "link": "#"
   },
   {
+    "slot": "Remote IP-KVM",
+    "name": "PiKVM V4 Plus",
+    "specs": "HDMI Capture • ATX Power Control • Tailscale Ready",
+    "why": "Full BIOS-level remote access and hard-reset control for headless servers.",
+    "link": "#"
+  },
+  {
+    "slot": "Power / UPS Backup",
+    "name": "CyberPower CP1500PFCLCD",
+    "specs": "1500VA / 1000W • Pure Sine Wave • AVR • USB Shutdown",
+    "why": "Protects ZFS arrays and network gear from brownouts and sudden drops.",
+    "link": "#"
+  },
+  {
     "slot": "Network Rack",
     "name": "StarTech 12U Open Frame Rack",
     "specs": "19\" Adjustable Depth • Heavy-Duty Steel • Casters",
     "why": "Easy rear-cable access and airflow for patch panels and switches.",
+    "link": "#"
+  },
+  {
+    "slot": "Rack Patching",
+    "name": "24-Port Blank Keystone Panel + Slim Cat6",
+    "specs": "1U Steel • Cat6A Shielded Keystones • 1ft Snagless",
+    "why": "Clean front-of-rack cable management and modular port swaps.",
     "link": "#"
   }
 ]
