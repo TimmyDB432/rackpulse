@@ -1,5 +1,77 @@
 [
   {
+    "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+    "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+    "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
+    "published": "2026-11-18T15:00:10",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+    "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+    "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
+    "published": "2026-11-18T11:50:25",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "published": "2026-11-18T10:35:05",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Microsoft announces Windows Server 2028 with hardened security",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+    "published": "2026-11-18T09:24:31",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+    "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+    "published": "2026-11-18T08:24:18",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
+    "link": "https://arxiv.org/abs/2607.06681",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.06681\">https://arxiv.org/abs/2607.06681</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542329\">https://news.ycombinator.com/item?id=50542329</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-18T05:46:40",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Show HN: AgentShield Zero-dep secret redactor and shell firewall for Claude",
+    "link": "https://github.com/RitualDev-Lab/AgentShield",
+    "summary": "<p>Article URL: <a href=\"https://github.com/RitualDev-Lab/AgentShield\">https://github.com/RitualDev-Lab/AgentShield</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541937\">https://news.ycombinator.com/item?id=50541937</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-18T04:39:11",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+    "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+    "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN,\u00a0Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
+    "published": "2026-11-18T02:52:04",
+    "category": "Investigative / Krebs",
+    "section": "security"
+  },
+  {
+    "title": "Did IBM originally plan to use the 68000 in the PC? (2020)",
+    "link": "https://retrocomputing.stackexchange.com/questions/16912",
+    "summary": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/16912\">https://retrocomputing.stackexchange.com/questions/16912</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541023\">https://news.ycombinator.com/item?id=50541023</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+    "published": "2026-11-18T02:14:09",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
     "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
     "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
     "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
@@ -8,12 +80,36 @@
     "section": "security"
   },
   {
+    "title": "DJI Mic Mini action button (Android only)",
+    "link": "https://jtc268.github.io/dji-mic-mini-action-button/",
+    "summary": "<p>Article URL: <a href=\"https://jtc268.github.io/dji-mic-mini-action-button/\">https://jtc268.github.io/dji-mic-mini-action-button/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538908\">https://news.ycombinator.com/item?id=50538908</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T22:05:39",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
     "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
     "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
     "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
     "published": "2026-11-17T21:27:17",
     "category": "Security News",
     "section": "security"
+  },
+  {
+    "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
+    "link": "https://news.ycombinator.com/item?id=50538108",
+    "summary": "<p>Basically I just want a 230 volt relay that I can turn on/off with a Raspberry Pi/Ardunio, but I don't feel confident enough to tinker with mains electricity myself. I saw the Powerswitch tail 2 (https://www.adafruit.com/product/268) a while ago, which has been discontinued but replaced with the IoT Power Relay (https://www.adafruit.com/product/2935). Both look great, the problem is that they're only made for US plugs at American voltage and I want something I can use with a UK plug. Anyone know of anything for this?<p>I have a few Wi-Fi smart plugs but I'd like something simple that I can hardwire and control myself without any wireless connectivity. Just a pre-made relay cable. This feels like something I should be able to easily find online but I guess I'm just bad at googling?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538108\">https://news.ycombinator.com/item?id=50538108</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T21:00:33",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Ask HN: How realistic is an LLM-powered worm that spreads from PC to PC?",
+    "link": "https://news.ycombinator.com/item?id=50538080",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538080\">https://news.ycombinator.com/item?id=50538080</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-17T20:57:40",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
     "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
@@ -30,6 +126,14 @@
     "published": "2026-11-17T19:24:07",
     "category": "Security News",
     "section": "security"
+  },
+  {
+    "title": "Show HN: SSH into DOS: I wrote an x86 (IBM PC) emulator",
+    "link": "https://www.dialup.net/farcall/",
+    "summary": "<p>Article URL: <a href=\"https://www.dialup.net/farcall/\">https://www.dialup.net/farcall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536648\">https://news.ycombinator.com/item?id=50536648</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-17T19:14:13",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
     "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
@@ -50,7 +154,7 @@
   {
     "title": "UniFi Network Application 11.0.103",
     "link": "https://community.ui.com/releases/UniFi-Network-Application-11-0-103/1d46d637-22e9-4f65-be2f-cf8f9e59162c",
-    "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.103 requires UniFi OS 6.0 or newer and includes the improvements and bugfixes below.</p><p></p><p>If you are upgrading from 10.x or earlier versions, note that the PostgreSQL migration clears existing statistics history, and all sites are automatically migrated to Zone-Based Firewall. See <a href=\"http://community.ui.com/releases/r/network/11.0.97\" rel=\"nofollow\" target=\"_blank\">11.0.97</a> for details.</p><h2>Improvements</h2><ul><li><p>Added support for matching networks in the External zone as Firewall Policy destinations.</p></li></ul><p></p><h2>Bugfixes</h2><ul><li><p>Fixed a rare issue where VPN Servers could fail to work.</p></li><li><p>Fixed a rare issue where UID Enterprise WiFi networks could fail to work.</p></li><li><p>Fixed an issue where Firewall Policies between networks could lose IPv6 port restrictions after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed an issue where Port Forwarding rules to networks routed by a Layer 3 switch did not work.</p></li><li><p>Fixed an issue where WAN OUT block rules could stop blocking VPN client traffic after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed a rare issue where the Devices page could fail to load.</p></li><li><p>Fixed an issue where Port Forwarding rules to hosts behind a static route could stop working after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed a rare issue where upgrading to Network 11.0 could fail.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p>&nbsp;</p><p><strong>Self-Hosted UniFi Deployments</strong></p><p>For self-hosted deployments, we recommend transitioning to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"nofollow\" target=\"_blank\">UniFi OS Server</a>, which provides the full UniFi OS Platform experience, including the latest features, improvements, and integrations.</p><p>UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
+    "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.103 requires UniFi OS 6.0 or newer and includes the improvements and bugfixes below.</p><p></p><p>If you are upgrading from 10.x or earlier versions, note that the PostgreSQL migration clears existing statistics history, and all sites are automatically migrated to Zone-Based Firewall. See <a href=\"http://community.ui.com/releases/r/network/11.0.97\" rel=\"nofollow\" target=\"_blank\">11.0.97</a> for details.</p><h2>Improvements</h2><ul><li><p>Added support for matching networks in the External zone as Firewall Policy destinations.</p></li></ul><p></p><h2>Bugfixes</h2><ul><li><p>Fixed a rare issue where VPN Servers could fail to work.</p></li><li><p>Fixed a rare issue where UID Enterprise WiFi networks could fail to work.</p></li><li><p>Fixed an issue where Firewall Policies between networks could lose IPv6 port restrictions after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed an issue where Port Forwarding rules to networks routed by a Layer 3 switch did not work.</p></li><li><p>Fixed an issue where WAN OUT block rules could stop blocking VPN client traffic after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed a rare issue where the Devices page could fail to load.</p></li><li><p>Fixed an issue where Port Forwarding rules to hosts behind a static route could stop working after upgrading from Network 10.6 with Legacy Firewall enabled.</p></li><li><p>Fixed a rare issue where ULTE devices could unexpectedly display Verify Your Account.</p></li><li><p>Fixed a rare issue where upgrading to Network 11.0 could fail.</p></li><li><p>Fixed an issue where SD-WAN tunnels could temporarily disconnect after an upgrade.</p></li><li><p>Fixed a rare issue where the Default Network could be lost after an upgrade.</p></li><li><p>Fixed a rare issue where UID Enterprise WiFi broadcasting could fail.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p>&nbsp;</p><p><strong>Self-Hosted UniFi Deployments</strong></p><p>For self-hosted deployments, we recommend transitioning to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"nofollow\" target=\"_blank\">UniFi OS Server</a>, which provides the full UniFi OS Platform experience, including the latest features, improvements, and integrations.</p><p>UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
     "published": "2026-11-17T16:07:34",
     "category": "Networking / Ubiquiti",
     "section": "homelab"
@@ -78,6 +182,30 @@
     "published": "2026-11-17T15:01:11",
     "category": "Security News",
     "section": "security"
+  },
+  {
+    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+    "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+    "summary": "<figure class=\"insert-image\"><img alt=\"Clock rack in studio\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/clock-rack-in-studio.jpg\" width=\"700\" />\n</figure>\n\n<p>Before I get <em>too</em> deep into the <a href=\"http://www.leapsecond.com/time-nuts.htm\">time-nuts</a> rabbit hole, I figured I should share a little bit of the good time I now have in my studio, with everyone <em>else</em>.</p>\n<p>Thus, I've finally joined the <a href=\"https://www.ntppool.org/en/\">NTP Pool</a>, offering one public Stratum 2 NTP time server (<a href=\"https://www.ntppool.org/scores/207.244.255.245\"><code>ntp-01.jeffgeerling.com</code></a>), which gets its time from my Stratum 1 time server (<a href=\"https://time.jeffgeerling.com\"><code>time.jeffgeerling.com</code></a>) in the studio.</p>\n<figure class=\"insert-image\"><img alt=\"Stratum 1 Time Pi in rack with MasterClock NTP Clock above\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/time-pi-running-in-rack.jpg\" width=\"700\" />\n</figure>\n\n<p>My <a href=\"https://github.com/geerlingguy/time-pi\">Time Pi</a> is connected to an outside GNSS antenna through a <a href=\"https://github.com/Time-Appliances-Project/TimeHAT\">TimeHAT v6</a>, which I paired with a high quality timing-grade GNSS module, the <a href=\"https://www.u-blox.com/en/product/zed-f9t-module\">u-blox ZED-F9T</a>.</p>",
+    "published": "2026-11-17T15:00:00",
+    "category": "Homelab & Pi",
+    "section": "homelab"
+  },
+  {
+    "title": "Huntress Delivers 24/7 Response for Microsoft Defender Incidents Across Endpoints and Microsoft 365",
+    "link": "https://www.huntress.com/blog/huntress-response-for-microsoft-defender-incidents-across-endpoints-and-microsoft-365",
+    "summary": "The Huntress Agentic Security Platform now sees incidents from Defender for Identity, Defender for Office 365, Defender for Cloud Apps, and Entra ID Protection. The new data already helped uncover a token-replay campaign that hit 97 accounts at 79 organizations.",
+    "published": "2026-11-17T14:00:00",
+    "category": "Threat Intel / Huntress",
+    "section": "security"
+  },
+  {
+    "title": "Fiwu v0.8, an Interactive Firewall for Linux",
+    "link": "https://github.com/Smile-SA/fiwu",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Smile-SA/fiwu\">https://github.com/Smile-SA/fiwu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50531115\">https://news.ycombinator.com/item?id=50531115</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-17T13:32:49",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
     "title": "Siemens ROS#",
@@ -192,6 +320,22 @@
     "section": "security"
   },
   {
+    "title": "OVH announces Olala mini 7A1B",
+    "link": "https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/",
+    "summary": "<p>Article URL: <a href=\"https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/\">https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529976\">https://news.ycombinator.com/item?id=50529976</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T11:18:15",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "3D Printed Modular Stackable Mini-ITX Homelab",
+    "link": "https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726",
+    "summary": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726\">https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529831\">https://news.ycombinator.com/item?id=50529831</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T10:54:28",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
     "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
     "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
     "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
@@ -200,44 +344,36 @@
     "section": "security"
   },
   {
-    "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-    "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-    "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-    "published": "2026-11-17T08:35:42",
-    "category": "Security News",
-    "section": "security"
+    "title": "OVH announces Olala mini 7A1B",
+    "link": "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/",
+    "summary": "<p>Article URL: <a href=\"https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/\">https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529352\">https://news.ycombinator.com/item?id=50529352</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T09:41:30",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
-    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-    "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-    "published": "2026-11-17T07:25:44",
-    "category": "Security News",
-    "section": "security"
+    "title": "Mini Organ Made from Paper [video]",
+    "link": "https://www.youtube.com/watch?v=ujdlxAQw5oA",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ujdlxAQw5oA\">https://www.youtube.com/watch?v=ujdlxAQw5oA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529131\">https://news.ycombinator.com/item?id=50529131</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T09:02:57",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
-    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-    "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
-    "published": "2026-11-17T02:12:17",
-    "category": "Security News",
-    "section": "security"
+    "title": "OVH announces Olala mini 7A1B",
+    "link": "https://corporate.ovhcloud.com/en-ie/newsroom/news/ovh-olala-mini/",
+    "summary": "<p>Article URL: <a href=\"https://corporate.ovhcloud.com/en-ie/newsroom/news/ovh-olala-mini/\">https://corporate.ovhcloud.com/en-ie/newsroom/news/ovh-olala-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50528874\">https://news.ycombinator.com/item?id=50528874</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-17T08:27:40",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
-    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-    "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-    "published": "2026-11-16T22:54:00",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-    "published": "2026-11-16T21:31:44",
-    "category": "Security News",
-    "section": "security"
+    "title": "Android Fast Switch looks like Google's answer to iPhone Handoff",
+    "link": "https://www.androidauthority.com/android-fast-switch-handoff-3735737/",
+    "summary": "<p>Article URL: <a href=\"https://www.androidauthority.com/android-fast-switch-handoff-3735737/\">https://www.androidauthority.com/android-fast-switch-handoff-3735737/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50528379\">https://news.ycombinator.com/item?id=50528379</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T07:07:23",
+    "category": "HN Community",
+    "section": "homelab"
   },
   {
     "title": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster\u2026 It is FINALLY real",
@@ -245,6 +381,14 @@
     "summary": "<p>Lambda is the first to disclose it has co-packaged optics deployed in a production cluster with over 10,000 GPUs</p>\n<p>The post <a href=\"https://www.servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real/\">NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster&#8230; It is FINALLY real</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
     "published": "2026-11-16T21:24:47",
     "category": "Servers & Storage",
+    "section": "homelab"
+  },
+  {
+    "title": "Show HN: View \u2013 Build native Mac Mini apps with your own coding agent",
+    "link": "https://useview.app/",
+    "summary": "<p>View runs small rust programs as native interfaces using Rust and GPUI. Coding agents write and edit the programs. Changes load without restarting the app.<p>Each view has its own state and permissions. Views access data through APIs, CLIs or MCP servers.<p>It supports Pi, Codex, Claude Code and OpenCode and more. Saved state is encrypted locally. Credentials are stored in macOS Keychain.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520917\">https://news.ycombinator.com/item?id=50520917</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-16T18:22:09",
+    "category": "HN Community",
     "section": "homelab"
   },
   {
@@ -456,14 +600,6 @@
     "section": "security"
   },
   {
-    "title": "Huntress + Hudu Integration: Security Context in Your IT Docs",
-    "link": "https://www.huntress.com/blog/hudu-huntress-integration",
-    "summary": "Hudu's new Huntress integration brings your Huntress organizations, agents, memberships, and identities into Hudu. See what it does, how to set it up, and how Hudu built it on the Huntress API.",
-    "published": "2026-11-03T15:00:00",
-    "category": "Threat Intel / Huntress",
-    "section": "security"
-  },
-  {
     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.",
@@ -501,142 +637,6 @@
     "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.97 requires UniFi OS 6.0 or newer. The upgrade may take up to 20 minutes.</p><p>&nbsp;</p><p><strong>Improved Application Stability</strong></p><ul><li><p>Migrated the application database to PostgreSQL.</p></li><li><p>Introduced a new, more scalable statistics engine.</p></li><li><p>Existing statistics history is cleared and starts fresh after the update.</p></li><li><p>Removed USG gateway support.</p></li><li><p>Network Application 10.6 is the last version supporting USG.</p></li><li><p>Removed Network Application Server support.</p></li><li><p>Upgrade to UniFi OS Server, the official replacement.</p></li><li><p>All sites are automatically migrated to the Zone-Based Firewall.</p></li></ul><p></p><p><strong>Live Flows</strong></p><p>View active flows on the gateway while they are in progress and terminate them on demand.</p><ul><li><p>Supported on UDM-Pro, UDM-SE, UDM-Pro-Max, UDW, EFG, EF-Core, UDM-Beast, UCG-Fiber, UCG-Max, UXG-Max, UXG-Fiber, UXG-Pro, and UXG-Enterprise.</p></li><li><p>Requires UniFi OS 6.0.10 or newer.</p></li><li><p>UniFi Gateways (UXG) require a UCK-Enterprise, Official Hosting, or UniFi OS Server.</p></li></ul><p></p><p><strong>External Network Lists</strong></p><p>Added an External source option to Network Lists to import domain or IP lists from external sources.</p><ul><li><p>Requires UniFi OS 6.0.10 or newer.</p></li></ul><p></p><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/15662d06-8122-44e2-a1ba-af5d71b8a045/01ad4ec0-5666-4e10-a790-f88101d0fdf5\" style=\"width: 100%; height: 205px;\" /><p><strong>WiFi Uplink</strong></p><p>Connect your gateway to a nearby WiFi network to use as an internet backup.</p><ul><li><p>Supported on UDR-7, UDR-5G-Max, Express 7, and UCG-Industrial.</p></li><li><p>Requires UniFi OS 6.0.10 or newer.</p></li></ul><p></p><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/15662d06-8122-44e2-a1ba-af5d71b8a045/96ee154f-1825-4d3a-b432-b8f4029c1a5e\" style=\"width: 100%; height: 205px;\" /><p><strong>Matter Thread Device Monitoring</strong></p><p>Commission Matter Thread devices to monitor their status and connectivity.</p><ul><li><p>Requires a Cloud Gateway with UniFi OS 6.0.10 or newer.</p></li><li><p>mDNS must be enabled.</p></li><li><p>IPv6 must be enabled on the network hosting the Thread Border Routers.</p></li></ul><p></p><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/15662d06-8122-44e2-a1ba-af5d71b8a045/c430b115-ceab-4c42-a826-98e19bcb5cbd\" style=\"width: 100%; height: 205px;\" /><h2>Improvements</h2><ul><li><p>Added an option to generate client device icons.</p></li><li><p>Added a new client connection alarm.</p></li><li><p>Added Battery Self-Test for UPS devices.</p></li><li><p>Added bulk editing for clients, including removal and blocking.</p></li><li><p>Added a country selection dropdown to Channel Plan.</p></li><li><p>Added support for Subnet Overlap System Logs.</p></li><li><p>Added Time Machine to the Topology page.</p></li><li><p>Added IPIP WAN support for Japanese IPv4 over IPv6 services.</p></li><li><p>Added a Packet Capture option to the Radio side panel.</p></li><li><p>Added Remote Power Cycle support for UPS 2U Pro.</p></li><li><p>Added a USB-C option for EAV-Bridge.</p></li><li><p>Added date selection for Port Manager statistics.</p></li><li><p>Added SD-WAN Policies for destination- and performance-based routing across selected spokes, with configurable hub selection, WAN priorities, and tunnel health thresholds for packet loss, latency, and jitter.</p><ul><li><p>Requires Site Manager 5.10.2 or newer.</p></li></ul></li><li><p>Improved traffic animations in Topology.</p></li><li><p>Improved guest authorization latency through the API.</p></li><li><p>Improved switch stacking stability.</p></li><li><p>Improved the 802.1X and RADIUS settings user experience.</p></li><li><p>Improved Channel AI.</p></li><li><p>Improved IGMP Snooping settings validation.</p></li><li><p>Improved the firmware Revert experience with a feedback form.</p></li><li><p>Improved the Deep Inspection settings user experience.</p></li><li><p>Improved Port Manager default columns and filters.</p></li><li><p>Improved Time Machine loading performance on large sites.</p></li><li><p>Improved the VPN settings user experience.</p></li><li><p>Improved availability detection for Virtual Network Override.</p></li><li><p>Improved the Routing settings user experience.</p></li><li><p>Increased the VLAN limit when no gateway is adopted.</p></li><li><p>Time Machine now remembers whether it was open or closed.</p></li><li><p>Updated Site-to-Site OpenVPN encryption options with AES-192-CBC and AES-128-CBC support.</p></li><li><p>Revoked compromised eMudhra CA certificates.</p></li><li><p>Removed System Settings when using Site Manager.</p><ul><li><p>Language and Time settings are now managed through the Site Manager header and synchronized across UniFi applications.</p></li><li><p>Country selection is now available in WiFi Channel settings.</p></li><li><p>NTP settings are now available in the Site Gateway side panel.</p></li><li><p>The Professional Installer section has been removed, with Extend 6 GHz Non-PSC Channel Use now available in Global WiFi settings.</p></li><li><p>System Settings remain available in the Local Portal for Language and Time configuration.</p></li></ul></li></ul><p><strong>Flows</strong></p><ul><li><p>Added Firewall Policy names for Allow actions in Traffic Flows.</p></li><li><p>Added support for reordering columns in Traffic Flows.</p><ul><li><p>Requires UniFi OS 6.0.10 or newer.</p></li></ul></li><li><p>Added Application Column/Filter in Traffic Flows.</p><ul><li><p>Requires UniFi OS 6.0.10 or newer.</p></li></ul></li><li><p>Added a Flows Logging option to Firewall Policies.</p></li><li><p>Improved Traffic Flows reporting.</p></li><li><p>Local DNS queries are now identified as DNS in Traffic Flows.</p></li></ul><p></p><h2>Bugfixes</h2><ul><li><p>Fixed an issue where Channel AI could suggest channels unavailable to outdoor access points.</p></li><li><p>Fixed an issue where disabling the display on a meshed Express 7 could fail.</p></li><li><p>Fixed a rare issue where Alarm Manager emails could be sent unexpectedly.</p></li><li><p>Fixed an issue where Firewall Policies referencing SD-WAN hub-spoke tunnels could stop working after WAN interface changes.</p></li><li><p>Fixed missing System Log events for unauthorized Hotspot guests.</p></li><li><p>Fixed a rare issue where hostname and IPv6 address information could fluctuate.</p></li><li><p>Fixed an issue where an incorrect parent device could be offered when adopting a UniFi Device Bridge.</p></li><li><p>Fixed a rare issue where leaving a web session open for an extended period could cause the browser to crash.</p></li><li><p>Fixed an issue where L2TP VPN appeared as a Content Filtering source option.</p></li><li><p>Fixed a rare issue where devices could appear twice in the Devices list.</p></li><li><p>Fixed a rare issue where guest voucher authorization could report success without providing internet access.</p></li><li><p>Fixed a rare issue where Hotspot guests could be required to reauthorize when roaming between access points.</p></li><li><p>Fixed a rare issue where SD-WAN tunnels could fail to establish between sites.</p></li><li><p>Fixed an issue where Isolated Networks did not isolate traffic to the VPN zone.</p></li><li><p>Fixed a rare issue where IPv6 IPS threats did not appear in Traffic Flows.</p></li><li><p>Fixed an issue where Site Manager could fail to display statistics for multi-site hosts with a large number of sites.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p>&nbsp;</p><p><strong>Self-Hosted UniFi Deployments</strong></p><p>For self-hosted deployments, we recommend transitioning to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"nofollow\" target=\"_blank\">UniFi OS Server</a>, which provides the full UniFi OS Platform experience, including the latest features, improvements, and integrations.</p><p>UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
     "published": "2026-10-23T17:56:26",
     "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "UniFi Network Application 10.6.109",
-    "link": "https://community.ui.com/releases/UniFi-Network-Application-10-6-109/772020d5-1426-4015-bbd6-631d28803933",
-    "summary": "<h2>Improvements</h2><ul><li><p>Revoked compromised eMudhra CA certificates.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p><strong>&nbsp;</strong></p><p><strong>UniFi OS Server</strong></p><p></p><p>Going forward, we recommend users upgrade to&nbsp;<a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"noopener noreferrer\" target=\"_blank\">UniFi OS Server</a>&nbsp;for all self-hosted deployments. It provides the full UniFi OS Platform experience, ensuring you receive the latest features, improvements, and integrations.</p><p></p><p></p><p><strong>UniFi Network Native Application for UniFi OS</strong></p><p>Compatible with UDM, UDR, UDR7, UDR 5G Max, Express, Express 7, and UCG models (Ultra, Max, Fiber, and Industrial) on UniFi OS 3.1.6 or later. UDM-Pro, UDM-SE, and UDW have been using it since UniFi OS 5.1.5.</p><ul><li><p>The UniFi OS update utilizes the application version compatible with your console.</p></li><li><p>The manual update process via SSH requires a compatible package. Incompatible packages will be rejected on installation.</p></li><li><p>Older UniFi OS versions (prior to UniFi OS 3.1.6) on the UDM and UDR continue to utilize the standard UniFi Network Application for UniFi OS.</p></li></ul><p>&nbsp;</p><p>&nbsp;<strong>Checksums</strong></p><pre class=\"ql-code-block-container\"><code>d8447d3f6de51e186601831e0f21cb42 | UniFi-installer.exe\n411635b6517302e0291ebcec7d7dd7c5 | UniFi-Network-Server.dmg\n98097d4d6722c387885973f880f4b99f | UniFi.unix.zip\nbd5e7087a15841d8dce2d3d1bd8a4b70 | unifi_sysvinit_all.deb\n1c46802ddbab4f3155b82acaa2ac6b75 | unifi-uos_sysvinit.deb\n40d6708dc719627daedc6099f9928042 | unifi-native_sysvinit.deb\n601df32736f41e40a80a3e472450a3e1 | unifi_sh_api\n\n\n------------------------------------------------------------------------------------------------------------------------\n\n\n7c2074c62f8f8a4459c7011d9795343967a3fc9d33245c634d9a64034684fc76 | UniFi-installer.exe\ndb4ff15d644daa72ac87f694c80392536953097bc6fb14e9e1198ef076f9e2f0 | UniFi-Network-Server.dmg\n6771ed353bea92586aaa8bf1545d8aa4309ef3d31ebafd9869fe39dfd5098109 | UniFi.unix.zip\nbbbd514b786c27bfc13c2e075e0ecd3b279dab12aa80077b4b351c3501662bf2 | unifi_sysvinit_all.deb\n73b3c4ed0a4f9974a992b94eb022b7351bc5c7501ac2a9ff783af09f2aa7323c | unifi-uos_sysvinit.deb\n393fe68dc2fa25c67770ee0f18b6b3d8f2a11f9d5c634bba95a1052e4f550d2c | unifi-native_sysvinit.deb\n1791685039ea795970bcc7a61eec854058e3e6fc13c52770e31e20f3beb622eb | unifi_sh_api</code></pre><p></p>",
-    "published": "2026-10-23T17:56:21",
-    "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "Ubiquiti's $99 Vape Detector is actually pretty good",
-    "link": "https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/",
-    "summary": "<p>Since learning about the effects of high CO2 concentration on attention and cognitive performance\u2014especially at levels much higher than 2000ppm\u2014I've started monitoring CO2 and other air quality indicators in my house, at my studio, and even on the road.</p>\n<figure class=\"insert-image\"><img alt=\"Ubiquiti Vape Detector and Air Quality Monitor\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/up-air-quality-ubiquiti-vape-detector.jpg\" width=\"700\" />\n</figure>\n\n<p>I have a few other air quality monitors I'll be covering in the future, but today I wanted to focus on one I only heard about in the comments on a <a href=\"https://www.youtube.com/watch?v=t5yAZb5Blbs\">recent video tearing down a cheap no-name 'Air Quality Detector' from Amazon</a>.</p>",
-    "published": "2026-10-23T13:00:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "UniFi Network Application 9.0.122",
-    "link": "https://community.ui.com/releases/UniFi-Network-Application-9-0-122/0e4a7f45-b96b-4d7f-848d-1db0005a8def",
-    "summary": "<h2>Overview</h2><p>UniFi Network Application 9.0.122 includes the improvement below.</p><h2>Improvements</h2><ul><li><p>Revoked compromised eMudhra CA certificates.</p></li></ul><p></p><h2>Additional information</h2><ul><li>This release is only available for the UniFi Express (UX).</li></ul>",
-    "published": "2026-10-23T09:15:32",
-    "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "UniFi Network Application 11.0.94",
-    "link": "https://community.ui.com/releases/UniFi-Network-Application-11-0-94/c633bbe0-8e52-4351-a924-3ce22806db73",
-    "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.94 requires UniFi OS 6.0 or newer.</p><h2>Improvements</h2><ul><li><p>Added serial numbers to Thread client device details.</p></li><li><p>Added date selection for Port Manager statistics.</p></li><li><p>Added support for reordering columns in Traffic Flows.</p></li><li><p>Added Fallback status to the Device Uplink column for WiFi Uplink connections.</p></li><li><p>Added a Dashboard banner for sites automatically migrated to Zone-Based Firewall.</p></li><li><p>Improved Matter Thread device connectivity.</p></li><li><p>Improved WiFi Uplink status reporting after configuration changes.</p></li><li><p>Improved blocked Traffic Flows loading performance on consoles using external storage.</p></li><li><p>Improved device inform reliability when the database is under heavy load.</p></li><li><p>Improved the Internet WAN table layout by removing an unnecessary horizontal scrollbar.</p></li><li><p>Improved WiFi client System Logs with IP addresses and removed duplicate events.</p></li><li><p>Improved Virtual Network creation from Topology.</p></li><li><p>Prevented disabling radios used by WiFi Uplink.</p></li></ul><p></p><h2>Bugfixes</h2><ul><li><p>Fixed an issue where virtual machines and containers did not appear in Topology.</p></li><li><p>Fixed a rare issue where upgrading to Network 11 could fail.</p></li><li><p>Fixed an issue where View Only administrators could access VPN, Auto-Link, and device secrets.</p></li><li><p>Fixed an issue where offline HomePods could appear under an Apple TV's name in Thread networks.</p></li><li><p>Fixed an issue where the Collect Client Stats setting was not respected.</p></li><li><p>Fixed an issue where Time/Language setting changes didn't apply properly.</p></li><li><p>Fixed an issue where table header filters did not work in Traffic Flows.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p>&nbsp;</p><p><strong>Self-Hosted UniFi Deployments</strong></p><p>For self-hosted deployments, we recommend transitioning to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"nofollow\" target=\"_blank\">UniFi OS Server</a>, which provides the full UniFi OS Platform experience, including the latest features, improvements, and integrations.</p><p>UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
-    "published": "2026-10-21T17:10:55",
-    "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-    "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-    "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
-    "published": "2026-10-21T15:26:07",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "Upgrade your PHP installs immediately to protect against php2shell",
-    "link": "https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/",
-    "summary": "<p>This morning, two critical PHP Security Advisories were published:</p>\n<ul>\n<li><a href=\"https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w\">RCE via OOM corruption</a> (9.2/10)</li>\n<li><a href=\"https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp\">RCE via stale global state</a> (9.2/10)</li>\n</ul>\n<p>If you're running PHP for any service, you need to upgrade immediately to 8.2.35, 8.3.36, 8.4.27, or 8.5.12. <s>And if you use Remi's repos on RedHat-derivative Linux distros, you <a href=\"https://x.com/ThePHPF/status/2112828424486056183\">need to switch to official repos temporarily</a> as Remi's on vacation and can't update his community repo. (Reminds me of <a href=\"https://xkcd.com/2347/\">xkcd 2347</a>).</s> Remi <a href=\"https://x.com/ThePHPF/status/2112912032546672732\">pushed updates even while on vacation</a>!</p>",
-    "published": "2026-10-21T14:10:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-    "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-    "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
-    "published": "2026-10-19T13:48:56",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-    "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-    "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
-    "published": "2026-10-14T14:22:49",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer",
-    "link": "https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/",
-    "summary": "<figure class=\"insert-image\"><img alt=\"Formlabs Form Studio 1\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/formlabs-form-studio-1-hero.jpeg\" width=\"700\" />\n</figure>\n\n<p>Formlabs sent me a <a href=\"https://formlabs.com/3d-printers/form-studio-1/?utm_source=youtube&amp;utm_medium=referral&amp;utm_campaign=jeffgeerling-fs1-2026-07-26-global\">Form Studio 1</a> resin 3D printer to test after years of back-and-forth about their Form 4 printer.</p>\n<p>Like the Form 4, it's an SLA (stereolithography) printer, but unlike the Form 4 (which starts at $2,600), it's affordable for a hobbyist. It's not <em>cheap</em>, coming in at $699 (or $749 with a flex build platform, which I highly recommend), but it is affordable.</p>\n<p>I can't say as much about this printer as people who are well-versed in resin printing and use other SLA printers (all my experience until now is with FDM, or Fused Deposition Modeling<sup id=\"fnref:1\"><a class=\"footnote-ref\" href=\"https://www.jeffgeerling.com/blog.xml#fn:1\">1</a></sup>, printers). But I can convey my first-time experience using this printer and with the entire SLA experience.</p>",
-    "published": "2026-10-14T13:00:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "Microsoft Patches More Than 1,400 Security Flaws",
-    "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-    "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-    "published": "2026-10-13T23:24:53",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "UniFi Network Application 11.0.83",
-    "link": "https://community.ui.com/releases/UniFi-Network-Application-11-0-83/d6940379-cd5a-4e61-8596-7e22d647a4ea",
-    "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.83 requires UniFi OS 6.0 or newer. The upgrade may take up to 20 minutes.</p><p>&nbsp;</p><p><strong>Improved Application Stability</strong></p><ul><li>Migrated the application database to PostgreSQL.</li><li>Introduced a new, more scalable statistics engine.</li><li class=\"ql-indent-1\">Existing statistics history is cleared and starts fresh after the update.</li><li>Removed USG gateway support.</li><li class=\"ql-indent-1\">Network Application 10.6 is the last version supporting USG.</li><li>Removed Network Application Server support.</li><li class=\"ql-indent-1\">Upgrade to UniFi OS Server, the official replacement.</li><li>All sites are automatically migrated to the Zone-Based Firewall.</li></ul><p><br /></p><p><strong>Live Flows</strong></p><p>View active flows on the gateway while they are in progress and terminate them on demand.</p><ul><li>Supported on UDM-Pro, UDM-SE, UDM-Pro-Max, UDW, EFG, EF-Core, UDM-Beast, UCG-Fiber, UCG-Max, UXG-Max, UXG-Fiber, UXG-Pro, and UXG-Enterprise.</li><li>Requires UniFi OS 6.0.10 or newer.</li></ul><p><br /></p><p><strong>External Network Lists</strong></p><p>Added an External source option to Network Lists to import domain or IP lists from external sources.</p><ul><li>Requires UniFi OS 6.0.10 or newer.</li></ul><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/620225f0-f74a-4640-9bbb-d6a6d2af4a53/3bb5ee96-aa17-44ea-8d09-9ff96cc0683f\" style=\"width: 100%; height: 205px;\" /><p><br /></p><p><strong>WiFi Uplink</strong></p><p>Connect your gateway to a nearby WiFi network to use as an internet backup.</p><ul><li>Supported on UDR-7, UDR-5G-Max, Express 7, and UCG-Industrial.</li><li>Requires UniFi OS 6.0.10 or newer.</li></ul><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/620225f0-f74a-4640-9bbb-d6a6d2af4a53/92855803-951e-489a-be7c-5a1a6e0193a4\" style=\"width: 100%; height: 205px;\" /><p></p><p><strong>Matter Thread Device Monitoring</strong></p><p>Commission Matter Thread devices to monitor their status and connectivity.</p><ul><li><p>Requires a Cloud Gateway with UniFi OS 6.0.10 or newer.</p></li><li><p>mDNS must be enabled.</p></li><li><p>IPv6 must be enabled on the network hosting the Thread Border Routers.</p></li></ul><p></p><img src=\"https://img.community.ui.com/b1ad65ed-c921-409d-a05d-b8275e780ae9/releases/620225f0-f74a-4640-9bbb-d6a6d2af4a53/50570e68-8952-4dcf-9773-d45f2869dc9e\" style=\"width: 100%; height: 205px;\" /><h2>Improvements</h2><ul><li>Added an option to generate client device icons.</li><li>Added a new client connection alarm.</li><li>Added Battery Self-Test for UPS devices.</li><li>Added bulk editing for clients, including removal and blocking.</li><li>Added a country selection dropdown to Channel Plan.</li><li>Added support for Subnet Overlap System Logs.</li><li>Added Time Machine to the Topology page.</li><li>Added IPIP WAN support for Japanese IPv4 over IPv6 services.</li><li>Added a Packet Capture option to the Radio side panel.</li><li>Added Remote Power Cycle support for UPS 2U Pro.</li><li>Added a USB-C option for EAV-Bridge.</li><li>Added SD-WAN Policies for destination- and performance-based routing across selected spokes, with configurable hub selection, WAN priorities, and tunnel health thresholds for packet loss, latency, and jitter.</li><li class=\"ql-indent-1\">Requires Site Manager 5.10.2 or newer.</li><li>Improved traffic animations in Topology.</li><li>Improved guest authorization latency through the API.</li><li>Improved switch stacking stability.</li><li>Improved the 802.1X and RADIUS settings user experience.</li><li>Improved Channel AI.</li><li>Improved IGMP Snooping settings validation.</li><li>Improved the firmware Revert experience with a feedback form.</li><li>Improved the Deep Inspection settings user experience.</li><li>Improved Port Manager default columns and filters.</li><li>Improved Time Machine loading performance on large sites.</li><li>Improved the VPN settings user experience.</li><li>Improved availability detection for Virtual Network Override.</li><li>Improved the Routing settings user experience.</li><li>Increased the VLAN limit when no gateway is adopted.</li><li>Time Machine now remembers whether it was open or closed.</li><li>Updated Site-to-Site OpenVPN encryption options with AES-192-CBC and AES-128-CBC support.</li><li>Removed System Settings when using Site Manager.</li><li class=\"ql-indent-1\">Language and Time settings are now managed through the Site Manager header and synchronized across UniFi applications.</li><li class=\"ql-indent-1\">Country selection is now available in WiFi Channel settings.</li><li class=\"ql-indent-1\">NTP settings are now available in the Site Gateway side panel.</li><li class=\"ql-indent-1\">The Professional Installer section has been removed, with Extend 6 GHz Non-PSC Channel Use now available in Global WiFi settings.</li><li class=\"ql-indent-1\">System Settings remain available in the Local Portal for Language and Time configuration.</li></ul><p><strong>Flows</strong></p><ul><li>Added Firewall Policy names for Allow actions in Traffic Flows.</li><li class=\"ql-indent-1\">Requires UniFi OS 6.0.10 or newer.</li><li>Added Application Column/Filter in Traffic Flows.</li><li class=\"ql-indent-1\">Requires UniFi OS 6.0.10 or newer.</li><li>Added a Flows Logging option to Firewall Policies.</li><li>Improved Traffic Flows reporting.</li><li class=\"ql-indent-1\">Local DNS queries are now identified as DNS in Traffic Flows.</li></ul><h2>Bugfixes</h2><ul><li>Fixed an issue where Channel AI could suggest channels unavailable to outdoor access points.</li><li>Fixed an issue where disabling the display on a meshed Express 7 could fail.</li><li>Fixed a rare issue where Alarm Manager emails could be sent unexpectedly.</li><li>Fixed an issue where Firewall Policies referencing SD-WAN hub-spoke tunnels could stop working after WAN interface changes.</li><li>Fixed missing System Log events for unauthorized Hotspot guests.</li><li>Fixed a rare issue where hostname and IPv6 address information could fluctuate.</li><li>Fixed an issue where an incorrect parent device could be offered when adopting a UniFi Device Bridge.</li><li>Fixed a rare issue where leaving a web session open for an extended period could cause the browser to crash.</li><li>Fixed an issue where L2TP VPN appeared as a Content Filtering source option.</li><li>Fixed a rare issue where devices could appear twice in the Devices list.</li><li>Fixed a rare issue where guest voucher authorization could report success without providing internet access.</li><li>Fixed a rare issue where Hotspot guests could be required to reauthorize when roaming between access points.</li><li>Fixed a rare issue where SD-WAN tunnels could fail to establish between sites.</li><li>Fixed an issue where Isolated Networks did not isolate traffic to the VPN zone.</li><li>Fixed a rare issue where IPv6 IPS threats did not appear in Traffic Flows.</li><li>Fixed an issue where Site Manager could fail to display statistics for multi-site hosts with a large number of sites.</li></ul><h2>Additional information</h2><p><br /></p><p><br /></p><p>&nbsp;</p><p class=\"ql-indent-1\"><strong>Self-Hosted UniFi Deployments</strong></p><p class=\"ql-indent-1\">For self-hosted deployments, we recommend upgrading to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"noopener noreferrer\" target=\"_blank\">UniFi OS Server</a>. It provides the full UniFi OS Platform experience, ensuring you receive the latest features, improvements, and integrations.</p><p class=\"ql-indent-1\">UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
-    "published": "2026-10-12T12:58:03",
-    "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-    "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-    "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-    "published": "2026-10-10T00:17:42",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "Radxa's Q8B has 2x the performance and expansion of the Pi 5",
-    "link": "https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/",
-    "summary": "<figure class=\"insert-image\"><img alt=\"Radxa Dragon Q8B with Raspberry Pi 5\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/radxa-dragon-q8b-with-raspberry-pi-5.jpg\" width=\"700\" />\n</figure>\n\n<p>There was a time I'd look at a board like the <a href=\"https://radxa.com/products/dragon/q8b/\">Radxa Dragon Q8B</a> (at left, above) and be like, &quot;there's no way I'd spend $209 on an SBC with 8 gigs of RAM&quot;. But we're in 2026, and seeing the 8 gig Raspberry Pi 5 going for almost the same amount, I figured I'd give it a shot.</p>\n<p>On <em>paper</em>, the Q8B beats the Pi 5 in pretty much every way. A lot of that is thanks to this Snapdragon 8cx Gen 3 chip, which is the same chip <a href=\"https://www.jeffgeerling.com/blog/2022/testing-microsofts-windows-dev-kit-2023/\">I tested on Microsoft's Windows Dev Kit 2023</a>.</p>",
-    "published": "2026-10-09T20:00:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-    "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-    "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
-    "published": "2026-10-07T13:48:45",
-    "category": "Investigative / Krebs",
-    "section": "security"
-  },
-  {
-    "title": "I'm starting HomelabFest (in St. Louis, Sep 2027)",
-    "link": "https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/",
-    "summary": "<p>I've been working on my homelab for years, and I enjoy sharing what I learn through this blog and my YouTube channel.</p>\n<figure class=\"insert-image\"><a href=\"https://www.homelabfest.org\"><img alt=\"HomelabFest 2027 banner\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/homelabfest-banner.jpg\" width=\"700\" /></a>\n</figure>\n\n<p>Over the past few years, I realized the homelab community (which isn't really a defined thing\u2014that's okay) hasn't had its own gathering, the way makers, software engineers, embedded developers, and HPC professionals do.</p>\n<p>There are many events that have crossover into the homelab realm, but nothing focused on energy-efficient servers, privacy-respecting self-hosted software, keeping old hardware useful, or cable management and rackmounting on a budget.</p>",
-    "published": "2026-09-25T15:16:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
-    "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
-    "summary": "<p>Raspberry Pi added a feature in their firmware that <a href=\"https://github.com/raspberrypi/rpi-eeprom/issues/761\">restricts users from swapping RAM chips</a>, sometimes even RAM chips of the same capacity from other Raspberry Pi boards.</p>\n<figure class=\"insert-image\"><img alt=\"Raspberry Pi 5 LPDDR4x memory being grabbed with tweezers\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/raspberry-pi-5-lpddr4x-ram-swap-tweezers.jpg\" width=\"700\" />\n</figure>\n\n<p>Apparently there were people buying cheap 1 or 2 gig Pi 5s, soldering in some cheap and sometimes unreliable 8 gig RAM chips, and <a href=\"https://forums.raspberrypi.com/viewtopic.php?t=399212\">selling them as new 8 gig Pi 5s</a>.</p>\n<p>Now I totally understand where Raspberry Pi's coming from. They don't wanna support Pis being sold like this, because flaky RAM and dodgy resellers are a huge problem. Especially with how profitable can be in the current AI bubble.</p>",
-    "published": "2026-09-21T17:00:00",
-    "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "NTP, an atomic clock, and having a great time at the world's largest VCF",
-    "link": "https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/",
-    "summary": "<p>I'm back from <a href=\"https://vcfmw.org\">VCF Midwest 21</a>, arguably the largest vintage computer festival on the planet.</p>\n<figure class=\"insert-image\"><img alt=\"Jeff Geerling's NTP Time booth at VCF Midwest 21\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/ntp-time-booth-vcf-midwest.jpg\" width=\"700\" />\n</figure>\n\n<p>After being <a href=\"https://www.jeffgeerling.com/blog/2025/vcf-midwest-was-even-better-i-expected/\">blown away</a> last year, I decided to get a table of my own this year, to demonstrate NTP Time on a bunch of old Macs, representing every era up to the pinnacle of the PowerPC, an Xserve G5 (serving duty as a Stratum 2 <code>ntpd</code> server).</p>\n<p>Attending as an exhibitor is a <em>lot</em> different. In some ways better (I got to interact face-to-face with at least 200 people\u2014after that I ran out of my 'time tokens'), and in some ways worse (I only got to see about 10% of the exhibits\u2014if that).</p>",
-    "published": "2026-09-18T14:00:00",
-    "category": "Homelab & Pi",
     "section": "homelab"
   }
 ]
