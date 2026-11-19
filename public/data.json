@@ -1,8 +1,120 @@
 [
   {
+    "title": "Welop\u014d'ai: A peculiar triple system 8 PC from the Sun",
+    "link": "https://www.aanda.org/articles/aa/full_html/2026/11/aa61214-26/aa61214-26.html",
+    "summary": "<p>Article URL: <a href=\"https://www.aanda.org/articles/aa/full_html/2026/11/aa61214-26/aa61214-26.html\">https://www.aanda.org/articles/aa/full_html/2026/11/aa61214-26/aa61214-26.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50561182\">https://news.ycombinator.com/item?id=50561182</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T15:14:19",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
+    "published": "2026-11-19T15:00:10",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+    "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+    "published": "2026-11-19T14:57:24",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Detecting Timeroasting the Hard Way",
+    "link": "https://www.huntress.com/blog/detecting-timeroasting",
+    "summary": "Timeroasting leaves no authentication log, but it is not invisible. I reverse MS-SNTP's two authenticator forms to build detection that packet size cannot fool.",
+    "published": "2026-11-19T14:00:00",
+    "category": "Threat Intel / Huntress",
+    "section": "security"
+  },
+  {
+    "title": "Canva Will Let Users Switch Off Most Generative AI",
+    "link": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
+    "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/\">https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50559947\">https://news.ycombinator.com/item?id=50559947</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T13:38:22",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "published": "2026-11-19T13:08:08",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+    "summary": "Microsoft is developing a new Edge security feature to\u00a0reduce the attack surface\u00a0by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+    "published": "2026-11-19T11:46:00",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+    "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+    "published": "2026-11-19T10:35:05",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+    "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "published": "2026-11-19T09:23:21",
+    "category": "Security News",
+    "section": "security"
+  },
+  {
+    "title": "0.87.0 \u2013 Boot without the card, and a KVM switch \u2013 ESP-KVM",
+    "link": "https://espkvm.io/blog/0-87-0-boot-without-the-card/",
+    "summary": "<p>Article URL: <a href=\"https://espkvm.io/blog/0-87-0-boot-without-the-card/\">https://espkvm.io/blog/0-87-0-boot-without-the-card/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557633\">https://news.ycombinator.com/item?id=50557633</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T08:52:49",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "SafeHouse is a launcher and PC port project for all the Sly Cooper games",
+    "link": "https://github.com/FridiNaTor1/SafeHouse",
+    "summary": "<p>Article URL: <a href=\"https://github.com/FridiNaTor1/SafeHouse\">https://github.com/FridiNaTor1/SafeHouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557319\">https://news.ycombinator.com/item?id=50557319</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T08:07:22",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Hardware attestation push \u2013 Windows will soon grade your PC's security",
+    "link": "https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html",
+    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html\">https://www.techspot.com/news/114602-windows-11-soon-grade-pc-security-apps-like.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50555332\">https://news.ycombinator.com/item?id=50555332</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-19T02:31:24",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+    "link": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+    "summary": "<p>Article URL: <a href=\"https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/\">https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554767\">https://news.ycombinator.com/item?id=50554767</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T01:14:02",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
+    "title": "A small homelab that fixes itself (mostly)",
+    "link": "https://tj.ie/homelab/",
+    "summary": "<p>Article URL: <a href=\"https://tj.ie/homelab/\">https://tj.ie/homelab/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554608\">https://news.ycombinator.com/item?id=50554608</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-19T00:53:56",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
     "title": "The First Nvidia RTX Spark Mini PCs Launch Today from Asus, Dell, and MSI",
     "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops\">https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554040\">https://news.ycombinator.com/item?id=50554040</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops\">https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554040\">https://news.ycombinator.com/item?id=50554040</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
     "published": "2026-11-18T23:53:11",
     "category": "HN Community",
     "section": "homelab"
@@ -120,6 +232,14 @@
     "section": "security"
   },
   {
+    "title": "What Business Email Compromise (BEC) Looks Like & How to Catch It",
+    "link": "https://www.huntress.com/blog/what-bec-looks-like",
+    "summary": "BEC hides in the vendor and billing threads you already trust. See how a Huntress team caught one, and the inbox rules and signs to watch for.",
+    "published": "2026-11-18T08:00:00",
+    "category": "Threat Intel / Huntress",
+    "section": "security"
+  },
+  {
     "title": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
     "link": "https://arxiv.org/abs/2607.06681",
     "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.06681\">https://arxiv.org/abs/2607.06681</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50542329\">https://news.ycombinator.com/item?id=50542329</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
@@ -152,84 +272,12 @@
     "section": "homelab"
   },
   {
-    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-    "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
-    "published": "2026-11-17T23:04:21",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
     "title": "DJI Mic Mini action button (Android only)",
     "link": "https://jtc268.github.io/dji-mic-mini-action-button/",
     "summary": "<p>Article URL: <a href=\"https://jtc268.github.io/dji-mic-mini-action-button/\">https://jtc268.github.io/dji-mic-mini-action-button/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538908\">https://news.ycombinator.com/item?id=50538908</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
     "published": "2026-11-17T22:05:39",
     "category": "HN Community",
     "section": "homelab"
-  },
-  {
-    "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-    "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-    "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-    "published": "2026-11-17T21:27:17",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
-    "link": "https://news.ycombinator.com/item?id=50538108",
-    "summary": "<p>Basically I just want a 230 volt relay that I can turn on/off with a Raspberry Pi/Ardunio, but I don't feel confident enough to tinker with mains electricity myself. I saw the Powerswitch tail 2 (https://www.adafruit.com/product/268) a while ago, which has been discontinued but replaced with the IoT Power Relay (https://www.adafruit.com/product/2935). Both look great, the problem is that they're only made for US plugs at American voltage and I want something I can use with a UK plug. Anyone know of anything for this?<p>I have a few Wi-Fi smart plugs but I'd like something simple that I can hardwire and control myself without any wireless connectivity. Just a pre-made relay cable. This feels like something I should be able to easily find online but I guess I'm just bad at googling?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538108\">https://news.ycombinator.com/item?id=50538108</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-17T21:00:33",
-    "category": "HN Community",
-    "section": "homelab"
-  },
-  {
-    "title": "Ask HN: How realistic is an LLM-powered worm that spreads from PC to PC?",
-    "link": "https://news.ycombinator.com/item?id=50538080",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538080\">https://news.ycombinator.com/item?id=50538080</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-17T20:57:40",
-    "category": "HN Community",
-    "section": "homelab"
-  },
-  {
-    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-    "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-    "published": "2026-11-17T20:51:21",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-    "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-    "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-    "published": "2026-11-17T19:24:07",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "Show HN: SSH into DOS: I wrote an x86 (IBM PC) emulator",
-    "link": "https://www.dialup.net/farcall/",
-    "summary": "<p>Article URL: <a href=\"https://www.dialup.net/farcall/\">https://www.dialup.net/farcall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50536648\">https://news.ycombinator.com/item?id=50536648</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-17T19:14:13",
-    "category": "HN Community",
-    "section": "homelab"
-  },
-  {
-    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-    "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-    "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-    "published": "2026-11-17T18:21:24",
-    "category": "Security News",
-    "section": "security"
-  },
-  {
-    "title": "Tor releases emergency update amid ongoing DDoS attack",
-    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-    "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-    "published": "2026-11-17T18:04:15",
-    "category": "Security News",
-    "section": "security"
   },
   {
     "title": "UniFi Network Application 11.0.103",
@@ -262,14 +310,6 @@
     "published": "2026-11-17T14:00:00",
     "category": "Threat Intel / Huntress",
     "section": "security"
-  },
-  {
-    "title": "Fiwu v0.8, an Interactive Firewall for Linux",
-    "link": "https://github.com/Smile-SA/fiwu",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Smile-SA/fiwu\">https://github.com/Smile-SA/fiwu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50531115\">https://news.ycombinator.com/item?id=50531115</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-17T13:32:49",
-    "category": "HN Community",
-    "section": "homelab"
   },
   {
     "title": "Siemens ROS#",
@@ -374,30 +414,6 @@
     "published": "2026-11-17T12:00:00",
     "category": "Advisories / CISA",
     "section": "security"
-  },
-  {
-    "title": "OVH announces Olala mini 7A1B",
-    "link": "https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/",
-    "summary": "<p>Article URL: <a href=\"https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/\">https://corporate.ovhcloud.com/en-in/newsroom/news/ovh-olala-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529976\">https://news.ycombinator.com/item?id=50529976</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-17T11:18:15",
-    "category": "HN Community",
-    "section": "homelab"
-  },
-  {
-    "title": "3D Printed Modular Stackable Mini-ITX Homelab",
-    "link": "https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726",
-    "summary": "<p>Article URL: <a href=\"https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726\">https://forum.level1techs.com/t/3d-printed-modular-stackable-mini-itx-homelab/260726</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529831\">https://news.ycombinator.com/item?id=50529831</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-17T10:54:28",
-    "category": "HN Community",
-    "section": "homelab"
-  },
-  {
-    "title": "OVH announces Olala mini 7A1B",
-    "link": "https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/",
-    "summary": "<p>Article URL: <a href=\"https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/\">https://corporate.ovhcloud.com/en/newsroom/news/ovh-olala-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529352\">https://news.ycombinator.com/item?id=50529352</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-17T09:41:30",
-    "category": "HN Community",
-    "section": "homelab"
   },
   {
     "title": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster\u2026 It is FINALLY real",
@@ -572,22 +588,6 @@
     "link": "https://www.huntress.com/blog/brute-force-sentry",
     "summary": "Huntress Managed SIEM's Brute Force Sentry turns the brute force attacks our SOC sees in the field into detections that fire earlier, with the evidence and hardening guidance partners need to close the gap.",
     "published": "2026-11-06T21:00:00",
-    "category": "Threat Intel / Huntress",
-    "section": "security"
-  },
-  {
-    "title": "Defense Drill Interventions",
-    "link": "https://www.huntress.com/blog/defense-drill-interventions",
-    "summary": "Defense Drill Interventions pair Managed EDR with just-in-time SAT training, so users learn the moment they fall for ClickFix.",
-    "published": "2026-11-05T15:00:00",
-    "category": "Threat Intel / Huntress",
-    "section": "security"
-  },
-  {
-    "title": "Adversary Infrastructure New Huntress ITDR Feature",
-    "link": "https://www.huntress.com/blog/itdr-adversary-infrastructure",
-    "summary": "Adversary Infrastructure is a new Managed ITDR feature that blocks attackers at Microsoft 365 sign-in, turning one tenant\u2019s attack into fleet-wide protection.",
-    "published": "2026-11-05T05:00:00",
     "category": "Threat Intel / Huntress",
     "section": "security"
   },
