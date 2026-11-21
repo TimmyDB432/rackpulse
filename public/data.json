@@ -1,5 +1,13 @@
 [
   {
+    "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
+    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
+    "published": "2026-11-21T00:36:39",
+    "category": "Investigative / Krebs",
+    "section": "security"
+  },
+  {
     "title": "JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs",
     "link": "https://www.servethehome.com/jedec-previews-ddr6-memory-standard-2-35x-more-bandwidth-44-narrower-dimms/",
     "summary": "<p>JEDEC has unveiled the first specifications for DDR6 memory. Targeting over twice the bandwidth of DDR5, and with DIMMs 44% smaller, DDR6 is slated to be the biggest change in generations to the server memory standard</p>\n<p>The post <a href=\"https://www.servethehome.com/jedec-previews-ddr6-memory-standard-2-35x-more-bandwidth-44-narrower-dimms/\">JEDEC Previews DDR6 Memory Standard: 2.35x More Bandwidth, 44% Narrower DIMMs</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
@@ -18,7 +26,7 @@
   {
     "title": "Inkling 2 Mini, Cutting-Edge Performance for Your Local Setup",
     "link": "https://huggingface.co/blog/inkling2mini",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/inkling2mini\">https://huggingface.co/blog/inkling2mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581846\">https://news.ycombinator.com/item?id=50581846</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/blog/inkling2mini\">https://huggingface.co/blog/inkling2mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581846\">https://news.ycombinator.com/item?id=50581846</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
     "published": "2026-11-20T20:49:01",
     "category": "HN Community",
     "section": "homelab"
@@ -34,7 +42,7 @@
   {
     "title": "Inkling 2 Mini",
     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 540</p>\n<p># Comments: 89</p>",
+    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 868</p>\n<p># Comments: 158</p>",
     "published": "2026-11-20T20:12:19",
     "category": "HN Community",
     "section": "homelab"
@@ -58,7 +66,7 @@
   {
     "title": "Paid subscriptions should come with a \"dead man's switch\", obviously",
     "link": "https://mattbee.mataroa.blog/p/dead-mans-switch/",
-    "summary": "<p>Article URL: <a href=\"https://mattbee.mataroa.blog/p/dead-mans-switch/\">https://mattbee.mataroa.blog/p/dead-mans-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579381\">https://news.ycombinator.com/item?id=50579381</a></p>\n<p>Points: 5</p>\n<p># Comments: 4</p>",
+    "summary": "<p>Article URL: <a href=\"https://mattbee.mataroa.blog/p/dead-mans-switch/\">https://mattbee.mataroa.blog/p/dead-mans-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579381\">https://news.ycombinator.com/item?id=50579381</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
     "published": "2026-11-20T18:20:44",
     "category": "HN Community",
     "section": "homelab"
@@ -74,7 +82,7 @@
   {
     "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
     "link": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md\">https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578233\">https://news.ycombinator.com/item?id=50578233</a></p>\n<p>Points: 52</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md\">https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578233\">https://news.ycombinator.com/item?id=50578233</a></p>\n<p>Points: 57</p>\n<p># Comments: 0</p>",
     "published": "2026-11-20T17:14:03",
     "category": "HN Community",
     "section": "homelab"
@@ -629,14 +637,6 @@
     "summary": "<h2>Overview</h2><p>UniFi Network Application 11.0.99 requires UniFi OS 6.0 or newer and includes the improvements and bugfixes below.</p><p></p><p>If you are upgrading from 10.x or earlier versions, note that the PostgreSQL migration clears existing statistics history, and all sites are automatically migrated to Zone-Based Firewall. See <a href=\"http://community.ui.com/releases/r/network/11.0.97\" rel=\"nofollow\" target=\"_blank\">11.0.97</a> for details.</p><h2>Improvements</h2><ul><li><p>Improved PostgreSQL migration reliability.</p></li><li><p>Improved application resiliency.</p></li></ul><p></p><h2>Bugfixes</h2><ul><li><p>Fixed an issue where the Site filter in Site Manager System Logs did not work.</p></li></ul><p></p><h2>Additional information</h2><p></p><p></p><p>&nbsp;</p><p><strong>Self-Hosted UniFi Deployments</strong></p><p>For self-hosted deployments, we recommend transitioning to <a href=\"https://ui.com/download/releases/unifi-os-server\" rel=\"nofollow\" target=\"_blank\">UniFi OS Server</a>, which provides the full UniFi OS Platform experience, including the latest features, improvements, and integrations.</p><p>UniFi Cloud Gateways remain our recommended solution for deployments that do not require self-hosting.</p>",
     "published": "2026-10-30T13:09:17",
     "category": "Networking / Ubiquiti",
-    "section": "homelab"
-  },
-  {
-    "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
-    "link": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
-    "summary": "<p>Since this will be the <em>only</em> source of this process on the Internet<sup id=\"fnref:1\"><a class=\"footnote-ref\" href=\"https://www.jeffgeerling.com/blog.xml#fn:1\">1</a></sup>, I figured I'd document a quick fan swap I did on a piece of test/reference equipment I'm running in my <a href=\"https://www.youtube.com/watch?v=3BBxCn4mY5Y\">Atomic Clock Tower</a>.</p>\n<figure class=\"insert-image\"><img alt=\"Calnex Rb/GPS Frequency Reference open on workbench\" height=\"auto\" src=\"https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/calnex-rb-gps-frequency-reference-open.jpeg\" width=\"700\" />\n</figure>\n\n<p>I took my Torx T10 screwdriver and popped off the top cover. The screws required some force to loosen, as they were all secured with Loctite.</p>\n<p>The inside is simple and serviceable. There's a <a href=\"https://www.rebes.net/folder/Spectratime/iSync_GRClok-1500_Spec.pdf\">SpectraTime GRClok-1500</a>, with an integrated timing-grade GPS module, and a stabilized 10 MHz output<sup id=\"fnref:2\"><a class=\"footnote-ref\" href=\"https://www.jeffgeerling.com/blog.xml#fn:2\">2</a></sup>.</p>",
-    "published": "2026-10-27T16:37:00",
-    "category": "Homelab & Pi",
     "section": "homelab"
   }
 ]
