@@ -1,8 +1,24 @@
 [
   {
+    "title": "JetKVM Mini W Review A Simple and Small Wireless External KVM Device",
+    "link": "https://www.servethehome.com/jetkvm-mini-w-review-a-simple-and-small-wireless-external-kvm-device/",
+    "summary": "<p>We take the JetKVM Mini W for a spin. This is a WiFi remote KVM device with lots of great features, a small size, and a low cost</p>\n<p>The post <a href=\"https://www.servethehome.com/jetkvm-mini-w-review-a-simple-and-small-wireless-external-kvm-device/\">JetKVM Mini W Review A Simple and Small Wireless External KVM Device</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
+    "published": "2026-11-27T21:45:21",
+    "category": "Servers & Storage",
+    "section": "homelab"
+  },
+  {
+    "title": "Planetary Bait and Switch",
+    "link": "https://kschroeder.substack.com/p/planetary-bait-and-switch",
+    "summary": "<p>Article URL: <a href=\"https://kschroeder.substack.com/p/planetary-bait-and-switch\">https://kschroeder.substack.com/p/planetary-bait-and-switch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50671543\">https://news.ycombinator.com/item?id=50671543</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-27T20:54:31",
+    "category": "HN Community",
+    "section": "homelab"
+  },
+  {
     "title": "The AT&T Unix PC (3B1) VM",
     "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-    "summary": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/\">https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670841\">https://news.ycombinator.com/item?id=50670841</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+    "summary": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/\">https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670841\">https://news.ycombinator.com/item?id=50670841</a></p>\n<p>Points: 77</p>\n<p># Comments: 13</p>",
     "published": "2026-11-27T19:40:33",
     "category": "HN Community",
     "section": "homelab"
@@ -18,7 +34,7 @@
   {
     "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
     "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-    "summary": "<p>Article URL: <a href=\"https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/\">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670443\">https://news.ycombinator.com/item?id=50670443</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/\">https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670443\">https://news.ycombinator.com/item?id=50670443</a></p>\n<p>Points: 52</p>\n<p># Comments: 11</p>",
     "published": "2026-11-27T18:59:55",
     "category": "HN Community",
     "section": "homelab"
@@ -226,7 +242,7 @@
   {
     "title": "Mayo Clinic to pay workers $906k for unpaid time spent booting PC and logging in",
     "link": "https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html",
-    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html\">https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656018\">https://news.ycombinator.com/item?id=50656018</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html\">https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656018\">https://news.ycombinator.com/item?id=50656018</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
     "published": "2026-11-26T14:58:36",
     "category": "HN Community",
     "section": "homelab"
@@ -261,14 +277,6 @@
     "summary": "<p>I've slowly been moving my servers from Ubuntu 22 and 24 to 26 this year, and noticed my Ansible automation starts failing if I have password protection for <code>sudo</code> use:</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-fallback\"><span style=\"display: flex;\"><span>$ ansible-playbook main.yml -K\n</span></span><span style=\"display: flex;\"><span>BECOME password: \n</span></span><span style=\"display: flex;\"><span>\n</span></span><span style=\"display: flex;\"><span>PLAY [Security] *******************************************************\n</span></span><span style=\"display: flex;\"><span>\n</span></span><span style=\"display: flex;\"><span>TASK [Gathering Facts] ***********************************************************************\n</span></span><span style=\"display: flex;\"><span>fatal: [my-server.local]: FAILED! =&gt; \n</span></span><span style=\"display: flex;\"><span> msg: 'Timeout (12s) waiting for privilege escalation prompt: '\n</span></span></code></pre></div><p>Apparently Ubuntu's been rewriting system utilities in Rust, and the <code>sudo-rs</code> version that ships on Ubuntu 26.04 has some incompatiblities with the <code>sudo</code> I've used on servers for 20+ years.</p>",
     "published": "2026-11-25T21:43:00",
     "category": "Homelab & Pi",
-    "section": "homelab"
-  },
-  {
-    "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
-    "link": "https://github.com/onatm/rustling",
-    "summary": "<p>Article URL: <a href=\"https://github.com/onatm/rustling\">https://github.com/onatm/rustling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646482\">https://news.ycombinator.com/item?id=50646482</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-25T19:42:36",
-    "category": "HN Community",
     "section": "homelab"
   },
   {
@@ -388,14 +396,6 @@
     "link": "https://www.servethehome.com/centec-zx530s-24s2cq-review/",
     "summary": "<p>We test the ZX530S-24S2CQ switch, a 24-port SFP+ 10G switch with two 100G SFP28 ports, but with a surprise Chinese Centec switch chip inside</p>\n<p>The post <a href=\"https://www.servethehome.com/centec-zx530s-24s2cq-review/\">Centec ZX530S-24S2CQ Review The Cheap 10G and 100G Switch Option with a Centec Switch Chip</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
     "published": "2026-11-22T18:00:14",
-    "category": "Servers & Storage",
-    "section": "homelab"
-  },
-  {
-    "title": "Sabrent Voltik 252W 8-port USB PD 3.0 Charger Quick Look",
-    "link": "https://www.servethehome.com/sabrent-voltik-252w-8-port-usb-pd-3-0-charger-quick-look/",
-    "summary": "<p>We take a quick look at the Sabrent Voltik 252W 8-port USB PD charger that has a LCD showing the power use</p>\n<p>The post <a href=\"https://www.servethehome.com/sabrent-voltik-252w-8-port-usb-pd-3-0-charger-quick-look/\">Sabrent Voltik 252W 8-port USB PD 3.0 Charger Quick Look</a> appeared first on <a href=\"https://www.servethehome.com\">ServeTheHome</a>.</p>",
-    "published": "2026-11-22T04:00:50",
     "category": "Servers & Storage",
     "section": "homelab"
   },
